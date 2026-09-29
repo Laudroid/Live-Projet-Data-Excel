@@ -1,0 +1,1523 @@
+﻿Date;ID_Produit;Produit;Catégorie;Vendeur;Quantité;Prix_Unitaire;Cout_Unitaire;Région
+27/08/2023;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;22;14,90;7,30;Île-de-France
+07/02/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;1;449,00;331,00;Est
+16/11/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;72;3,90;1,40;Île-de-France
+06/04/2023;P001;Casque Bluetooth Aria;Électronique;Hugo Marchand;8;89,90;51,30;Île-de-France
+26/10/2023;P001;Casque Bluetooth Aria;Électronique;Nora Lefèvre;6;89,90;51,30;Nord
+16/11/2023;P303;Micro-ondes Onde;Électroménager;Léa Bonnet;4;149,00;98,50;Sud
+03/10/2023;P005;Souris ergonomique Galet;Électronique;Yanis Perrot;6;49,90;26,40;Est
+26/09/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;6;39,90;19,70;Centre
+18/03/2023;P306;Aspirateur balai Souffle;Électroménager;Malik Benali;6;199,00;128,00;Ouest
+20/04/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;53;2,80;0,95;Nord
+25/08/2023;P102;Bureau réglable Altitude;Mobilier;Hugo Marchand;2;549,00;371,00;Île-de-France
+2023-05-30;P405;Support voiture Cardan;Téléphonie;Thomas Girard;16;29,90;12,60;Nord
+29/04/2023;P302;Machine à café Arôme;Électroménager;Sofia Renard;4;219,00;143,00;Centre
+04/05/2023;P002;Enceinte nomade Volta;Électronique;Yanis Perrot;5;129,00;74,80;Est
+14/05/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;4;279,00;191,00;Île-de-France
+17/11/2023;P004;Clavier mécanique Frappe;Électronique;Samir Haddad;6;119,50;68,90;Sud
+24/08/2023;P404;Casque filaire Fil;Téléphonie;Yanis Perrot;13;19,90;8,90;Est
+18/07/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;28;6,90;2,80;Ouest
+2023-08-11;P302;Machine à café Arôme;Électroménager;Inès Moreau;2;219,00;143,00;Ouest
+02/08/2023;P002;Enceinte nomade Volta;Électronique;Inès Moreau;3;129,00;74,80;Ouest
+2023-06-29;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;4;279,00;191,00;Île-de-France
+04/12/2023;P007;Disque SSD 1 To Silex;Électronique;Claire Vasseur;6;109,00;72,10;Centre
+01/03/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;26;14,90;5,10;Centre
+2023-06-01;P202;Stylo roller Encre;Papeterie;Claire Vasseur;36;4,50;1,60;Centre
+17/11/2023;P006;Webcam HD Regard;Électronique;Nora Lefèvre;8;79,00;44,20;Nord
+05/09/2023;P207;Agrafeuse Attache;Papeterie;Nora Lefèvre;12;14,90;7,30;Nord
+09/04/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;4;279,00;191,00;Est
+20/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Nora Lefèvre;41;2,80;0,95;Nord
+18/03/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;19;29,90;12,60;Île-de-France
+26/10/2023;P106;Fauteuil visiteur Accueil;Mobilier;Inès Moreau;7;189,00;121,00;Ouest
+16/07/2023;P303;Micro-ondes Onde;Électroménager;Camille Fournier;4;149,00;98,50;Île-de-France
+08/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;17;2,80;0,95;Sud
+03/04/2023;P105;Étagère modulaire Strate;Mobilier;Thomas Girard;2;139,00;86,50;Nord
+2023-09-07;P305;Ventilateur colonne Brise;Électroménager;Claire Vasseur;6;89,00;47,50;Centre
+12/11/2023;P402;Coque renforcée Carapace;Téléphonie;Hugo Marchand;13;24,90;8,40;Île-de-France
+02/06/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;20;19,90;8,90;Sud
+04/10/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;17;19,90;8,90;Île-de-France
+04/06/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;36;6,90;2,80;Sud
+05/03/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;3;199,00;128,00;Est
+07/12/2023;P401;Smartphone Signal;Téléphonie;Claire Vasseur;3;449,00;331,00;Centre
+03/01/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;17;8,90;5,20;Ouest
+2023-09-19;P202;Stylo roller Encre;Papeterie;Samir Haddad;63;4,50;1,60;Sud
+06/04/2023;P406;Câble tressé Lien;Téléphonie;Nora Lefèvre;22;14,90;5,10;Nord
+02/08/2023;P301;Bouilloire Vapeur;Électroménager;Thomas Girard;6;44,90;24,60;Nord
+29/06/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;20;8,90;5,20;Ouest
+12/03/2023;P002;Enceinte nomade Volta;Électronique;Nora Lefèvre;6;129,00;74,80;Nord
+30/09/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;24;8,90;5,20;Île-de-France
+05/12/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;2;449,00;331,00;Est
+22/11/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;28;8,90;5,20;Est
+27/08/2023;P401;Smartphone Signal;Téléphonie;Malik Benali;3;449,00;331,00;Ouest
+04/10/2023;P301;Bouilloire Vapeur;Électroménager;Samir Haddad;8;44,90;24,60;Sud
+19/12/2023;P102;Bureau réglable Altitude;Mobilier;Yanis Perrot;2;549,00;371,00;Est
+28/07/2023;P002;Enceinte nomade Volta;Électronique;Thomas Girard;2;129,00;74,80;Nord
+12/09/2023;P402;Coque renforcée Carapace;Téléphonie;Malik Benali;12;24,90;8,40;Ouest
+03/05/2023;P004;Clavier mécanique Frappe;Électronique;Camille Fournier;5;119,50;68,90;Île-de-France
+27/04/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;30;8,90;5,20;Ouest
+22/08/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;39;4,50;1,60;Nord
+2023-06-11;P305;Ventilateur colonne Brise;Électroménager;Yanis Perrot;3;89,00;47,50;Est
+19/03/2023;P205;Bloc-notes adhésif Repère;Papeterie;Inès Moreau;25;3,90;1,40;Ouest
+16/09/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;19;8,90;5,20;Est
+26/01/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;6;4,50;1,60;Nord
+29/01/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;4;449,00;331,00;Île-de-France
+14/09/2023;P405;Support voiture Cardan;Téléphonie;Malik Benali;11;29,90;12,60;Ouest
+07/11/2023;P202;Stylo roller Encre;Papeterie;Camille Fournier;42;4,50;1,60;Île-de-France
+22/07/2023;P301;Bouilloire Vapeur;Électroménager;Hugo Marchand;5;44,90;24,60;Île-de-France
+20/04/2023;P401;Smartphone Signal;Téléphonie;Samir Haddad;2;449,00;331,00;Sud
+04/08/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;40;8,90;5,20;Est
+28/09/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;3;199,00;128,00;Sud
+2023-06-24;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;24;2,80;0,95;Est
+20/06/2023;P008;Chargeur USB-C Foudre;Électronique;Malik Benali;12;34,90;16,80;Ouest
+07/02/2023;P306;Aspirateur balai Souffle;Électroménager;Camille Fournier;5;199,00;128,00;Île-de-France
+21/10/2023;P404;Casque filaire Fil;Téléphonie;Yanis Perrot;9;19,90;8,90;Est
+2023-01-25;P306;Aspirateur balai Souffle;Électroménager;Hugo Marchand;3;199,00;128,00;Île-de-France
+18/09/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;7;79,00;44,20;Est
+05/11/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;62;4,50;1,60;Nord
+11/10/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;3;449,00;331,00;Nord
+29/05/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;27;14,90;5,10;Île-de-France
+18/08/2023;P005;Souris ergonomique Galet;Électronique;Camille Fournier;12;49,90;26,40;Île-de-France
+02/08/2023;P303;Micro-ondes Onde;Électroménager;Yanis Perrot;1;149,00;98,50;Est
+15/04/2023;P106;Fauteuil visiteur Accueil;Mobilier;Claire Vasseur;2;189,00;121,00;Centre
+11/08/2023;P403;Batterie externe Réserve;Téléphonie;Inès Moreau;5;39,90;19,70;Ouest
+24/08/2023;P305;Ventilateur colonne Brise;Électroménager;Samir Haddad;7;89,00;47,50;Sud
+04/12/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;35;4,50;1,60;Nord
+24/01/2023;P105;Étagère modulaire Strate;Mobilier;Claire Vasseur;4;139,00;86,50;Centre
+02/04/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;11;29,90;12,60;Île-de-France
+30/11/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Claire Vasseur;2;279,00;191,00;Centre
+28/06/2023;P302;Machine à café Arôme;Électroménager;Camille Fournier;3;219,00;143,00;Île-de-France
+15/06/2023;P403;Batterie externe Réserve;Téléphonie;Thomas Girard;10;39,90;19,70;Nord
+19/02/2023;P004;Clavier mécanique Frappe;Électronique;Hugo Marchand;3;119,50;68,90;Île-de-France
+20/09/2023;P106;Fauteuil visiteur Accueil;Mobilier;Nora Lefèvre;3;189,00;121,00;Nord
+19/11/2023;P007;Disque SSD 1 To Silex;Électronique;Samir Haddad;2;109,00;72,10;Sud
+2023-12-15;P202;Stylo roller Encre;Papeterie;Yanis Perrot;32;4,50;1,60;Est
+03/08/2023;P204;Classeur à levier Dossier;Papeterie;Léa Bonnet;54;5,40;2,10;Sud
+23/05/2023;P303;Micro-ondes Onde;Électroménager;Inès Moreau;7;149,00;98,50;Ouest
+16/11/2023;P207;Agrafeuse Attache;Papeterie;Thomas Girard;11;14,90;7,30;Nord
+26/08/2023;P202;Stylo roller Encre;Papeterie;Yanis Perrot;40;4,50;1,60;Est
+19/02/2023;P004;Clavier mécanique Frappe;Électronique;Malik Benali;3;119,50;68,90;Ouest
+27/03/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;40;6,90;2,80;Île-de-France
+21/04/2023;P002;Enceinte nomade Volta;Électronique;Camille Fournier;5;129,00;74,80;Île-de-France
+21/08/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;2;449,00;331,00;Sud
+21/10/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;2;279,00;191,00;Est
+29/11/2023;P401;Smartphone Signal;Téléphonie;Hugo Marchand;2;449,00;331,00;Île-de-France
+16/05/2023;P006;Webcam HD Regard;Électronique;Malik Benali;8;79,00;44,20;Ouest
+09/09/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;33;8,90;5,20;Nord
+05/09/2023;P401;Smartphone Signal;Téléphonie;Claire Vasseur;2;449,00;331,00;Centre
+2023-06-30;P301;Bouilloire Vapeur;Électroménager;Léa Bonnet;14;44,90;24,60;Sud
+06/12/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;24;14,90;5,10;Île-de-France
+28/07/2023;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;3;329,00;214,00;Est
+10/07/2023;P004;Clavier mécanique Frappe;Électronique;Bastien Roux;3;119,50;68,90;Est
+16/02/2023;P003;Écran 27 pouces Lumen;Électronique;Claire Vasseur;2;329,00;214,00;Centre
+28/02/2023;P301;Bouilloire Vapeur;Électroménager;Claire Vasseur;6;44,90;24,60;Centre
+06/10/2023;P105;Étagère modulaire Strate;Mobilier;Thomas Girard;5;139,00;86,50;Nord
+26/12/2023;P306;Aspirateur balai Souffle;Électroménager;Hugo Marchand;3;199,00;128,00;Île-de-France
+2023-12-25;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;20;8,90;5,20;Île-de-France
+01/02/2023;P301;Bouilloire Vapeur;Électroménager;Camille Fournier;9;44,90;24,60;Île-de-France
+26/12/2023;P004;Clavier mécanique Frappe;Électronique;Samir Haddad;3;119,50;68,90;Sud
+11/01/2023;P104;Lampe d'architecte Faisceau;Mobilier;Nora Lefèvre;8;94,50;52,00;Nord
+18/05/2023;P006;Webcam HD Regard;Électronique;Hugo Marchand;2;79,00;44,20;Île-de-France
+19/05/2023;P105;Étagère modulaire Strate;Mobilier;Camille Fournier;5;139,00;86,50;Île-de-France
+11/07/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;23;8,90;5,20;Est
+26/05/2023;P204;Classeur à levier Dossier;Papeterie;Nora Lefèvre;31;5,40;2,10;Nord
+07/10/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;7;89,90;51,30;Île-de-France
+04/03/2023;P401;Smartphone Signal;Téléphonie;Claire Vasseur;2;449,00;331,00;Centre
+05/10/2023;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;17;19,90;8,90;Île-de-France
+10/05/2023;P203;Ramette A4 Blancheur;Papeterie;Samir Haddad;27;8,90;5,20;Sud
+11/07/2023;P303;Micro-ondes Onde;Électroménager;Samir Haddad;3;149,00;98,50;Sud
+12/06/2023;P301;Bouilloire Vapeur;Électroménager;Nora Lefèvre;5;44,90;24,60;Nord
+11/10/2023;P405;Support voiture Cardan;Téléphonie;Léa Bonnet;18;29,90;12,60;Sud
+26/12/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;10;89,90;51,30;Sud
+30/04/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;9;39,90;19,70;Est
+28/05/2023;P303;Micro-ondes Onde;Électroménager;Léa Bonnet;5;149,00;98,50;Sud
+29/09/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;24;14,90;5,10;Île-de-France
+29/11/2023;P004;Clavier mécanique Frappe;Électronique;Thomas Girard;5;119,50;68,90;Nord
+29/01/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;4;449,00;331,00;Nord
+21/01/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;17;39,90;19,70;Nord
+06/03/2023;P102;Bureau réglable Altitude;Mobilier;Léa Bonnet;2;549,00;371,00;Sud
+2023-12-04;P102;Bureau réglable Altitude;Mobilier;Claire Vasseur;2;549,00;371,00;Centre
+20/04/2023;P106;Fauteuil visiteur Accueil;Mobilier;Camille Fournier;2;189,00;121,00;Île-de-France
+2023-11-26;P003;Écran 27 pouces Lumen;Électronique;Thomas Girard;1;329,00;214,00;Nord
+19/03/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;15;39,90;19,70;Sud
+02/02/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;9;89,90;51,30;Île-de-France
+29/09/2023;P104;Lampe d'architecte Faisceau;Mobilier;Léa Bonnet;9;94,50;52,00;Sud
+30/10/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;16;8,90;5,20;Est
+20/09/2023;P402;Coque renforcée Carapace;Téléphonie;Léa Bonnet;12;24,90;8,40;Sud
+2023-01-28;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;43;5,40;2,10;Île-de-France
+2023-04-19;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;21;19,90;8,90;Île-de-France
+02/06/2023;P306;Aspirateur balai Souffle;Électroménager;Thomas Girard;3;199,00;128,00;Nord
+19/07/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;34;6,90;2,80;Île-de-France
+18/12/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;10;8,90;5,20;Île-de-France
+13/04/2023;P101;Chaise de bureau Assise;Mobilier;Nora Lefèvre;3;249,00;158,00;Nord
+13/11/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;7;39,90;19,70;Sud
+01/10/2023;P401;Smartphone Signal;Téléphonie;Malik Benali;1;449,00;331,00;Ouest
+16/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Malik Benali;32;2,80;0,95;Ouest
+29/04/2023;P106;Fauteuil visiteur Accueil;Mobilier;Malik Benali;4;189,00;121,00;Ouest
+22/10/2023;P406;Câble tressé Lien;Téléphonie;Hugo Marchand;28;14,90;5,10;Île-de-France
+05/07/2023;P406;Câble tressé Lien;Téléphonie;Samir Haddad;22;14,90;5,10;Sud
+29/11/2023;P305;Ventilateur colonne Brise;Électroménager;Malik Benali;5;89,00;47,50;Ouest
+27/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;37;3,90;1,40;Île-de-France
+11/04/2023;P406;Câble tressé Lien;Téléphonie;Malik Benali;18;14,90;5,10;Ouest
+15/12/2023;P103;Caisson à roulettes Tiroir;Mobilier;Yanis Perrot;4;179,00;112,00;Est
+14/05/2023;P005;Souris ergonomique Galet;Électronique;Camille Fournier;13;49,90;26,40;Île-de-France
+12/11/2023;P402;Coque renforcée Carapace;Téléphonie;Yanis Perrot;4;24,90;8,40;Est
+2023-02-15;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;15;39,90;19,70;Est
+07/01/2023;P002;Enceinte nomade Volta;Électronique;Camille Fournier;5;129,00;74,80;Île-de-France
+01/11/2023;P002;Enceinte nomade Volta;Électronique;Inès Moreau;4;129,00;74,80;Ouest
+02/11/2023;P405;Support voiture Cardan;Téléphonie;Yanis Perrot;8;29,90;12,60;Est
+15/09/2023;P303;Micro-ondes Onde;Électroménager;Léa Bonnet;7;149,00;98,50;Sud
+15/05/2023;P402;Coque renforcée Carapace;Téléphonie;Yanis Perrot;7;24,90;8,40;Est
+2023-05-08;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;23;6,90;2,80;Sud
+11/05/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;39;3,90;1,40;Sud
+11/11/2023;P204;Classeur à levier Dossier;Papeterie;Inès Moreau;28;5,40;2,10;Ouest
+28/09/2023;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;19;5,40;2,10;Île-de-France
+16/09/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;23;19,90;8,90;Île-de-France
+29/12/2023;P401;Smartphone Signal;Téléphonie;Hugo Marchand;2;449,00;331,00;Île-de-France
+06/07/2023;P005;Souris ergonomique Galet;Électronique;Yanis Perrot;6;49,90;26,40;Est
+23/07/2023;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;31;6,90;2,80;Nord
+04/11/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;16;29,90;12,60;Île-de-France
+07/01/2023;P106;Fauteuil visiteur Accueil;Mobilier;Hugo Marchand;6;189,00;121,00;Île-de-France
+29/03/2023;P002;Enceinte nomade Volta;Électronique;Hugo Marchand;7;129,00;74,80;Île-de-France
+15/08/2023;P202;Stylo roller Encre;Papeterie;Léa Bonnet;62;4,50;1,60;Sud
+2023-04-17;P008;Chargeur USB-C Foudre;Électronique;Malik Benali;11;34,90;16,80;Ouest
+10/03/2023;P003;Écran 27 pouces Lumen;Électronique;Samir Haddad;3;329,00;214,00;Sud
+18/01/2023;P207;Agrafeuse Attache;Papeterie;Camille Fournier;14;14,90;7,30;Île-de-France
+15/01/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;27;8,90;5,20;Île-de-France
+17/03/2023;P402;Coque renforcée Carapace;Téléphonie;Thomas Girard;12;24,90;8,40;Nord
+02/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;47;2,80;0,95;Île-de-France
+17/09/2023;P006;Webcam HD Regard;Électronique;Nora Lefèvre;5;79,00;44,20;Nord
+2023-11-29;P101;Chaise de bureau Assise;Mobilier;Samir Haddad;2;249,00;158,00;Sud
+19/01/2023;P405;Support voiture Cardan;Téléphonie;Claire Vasseur;16;29,90;12,60;Centre
+20/08/2023;P008;Chargeur USB-C Foudre;Électronique;Inès Moreau;9;34,90;16,80;Ouest
+22/01/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;19;14,90;7,30;Centre
+23/12/2023;P405;Support voiture Cardan;Téléphonie;Samir Haddad;9;29,90;12,60;Sud
+11/09/2023;P305;Ventilateur colonne Brise;Électroménager;Nora Lefèvre;3;89,00;47,50;Nord
+18/06/2023;P405;Support voiture Cardan;Téléphonie;Samir Haddad;19;29,90;12,60;Sud
+19/01/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;19;14,90;5,10;Est
+2023-06-14;P406;Câble tressé Lien;Téléphonie;Malik Benali;9;14,90;5,10;Ouest
+08/07/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;37;3,90;1,40;Île-de-France
+01/07/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Thomas Girard;3;279,00;191,00;Nord
+24/07/2023;P302;Machine à café Arôme;Électroménager;Léa Bonnet;3;219,00;143,00;Sud
+06/10/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;49;3,90;1,40;Est
+09/06/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;4;14,90;5,10;Est
+11/02/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;5;89,90;51,30;Centre
+19/03/2023;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;48;3,90;1,40;Île-de-France
+08/09/2023;P106;Fauteuil visiteur Accueil;Mobilier;Léa Bonnet;4;189,00;121,00;Sud
+06/09/2023;P302;Machine à café Arôme;Électroménager;Claire Vasseur;3;219,00;143,00;Centre
+26/01/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;24;8,90;5,20;Île-de-France
+21/07/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;49;2,80;0,95;Sud
+2023-12-16;P305;Ventilateur colonne Brise;Électroménager;Yanis Perrot;4;89,00;47,50;Est
+07/02/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;1;449,00;331,00;Est
+15/02/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;42;4,50;1,60;Nord
+13/11/2023;P103;Caisson à roulettes Tiroir;Mobilier;Inès Moreau;4;179,00;112,00;Ouest
+22/12/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;13;14,90;5,10;Centre
+08/04/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;3;39,90;19,70;Est
+28/09/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;2;449,00;331,00;Sud
+08/07/2023;P202;Stylo roller Encre;Papeterie;Léa Bonnet;55;4,50;1,60;Sud
+03/02/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;46;5,40;2,10;Île-de-France
+2023-07-07;P202;Stylo roller Encre;Papeterie;Yanis Perrot;38;4,50;1,60;Est
+23/06/2023;P008;Chargeur USB-C Foudre;Électronique;Yanis Perrot;4;34,90;16,80;Est
+19/01/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;3;199,00;128,00;Sud
+10/11/2023;P106;Fauteuil visiteur Accueil;Mobilier;Camille Fournier;4;189,00;121,00;Île-de-France
+01/12/2023;P006;Webcam HD Regard;Électronique;Inès Moreau;8;79,00;44,20;Ouest
+28/05/2023;P008;Chargeur USB-C Foudre;Électronique;Claire Vasseur;11;34,90;16,80;Centre
+22/02/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;23;14,90;7,30;Centre
+12/10/2023;P004;Clavier mécanique Frappe;Électronique;Léa Bonnet;7;119,50;68,90;Sud
+2023-09-19;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;3;199,00;128,00;Sud
+23/12/2023;P402;Coque renforcée Carapace;Téléphonie;Claire Vasseur;17;24,90;8,40;Centre
+17/09/2023;P004;Clavier mécanique Frappe;Électronique;Hugo Marchand;6;119,50;68,90;Île-de-France
+04/11/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;19;14,90;7,30;Ouest
+27/10/2023;P305;Ventilateur colonne Brise;Électroménager;Malik Benali;4;89,00;47,50;Ouest
+2023-01-12;P403;Batterie externe Réserve;Téléphonie;Camille Fournier;18;39,90;19,70;Île-de-France
+07/12/2023;P008;Chargeur USB-C Foudre;Électronique;Thomas Girard;9;34,90;16,80;Nord
+02/11/2023;P008;Chargeur USB-C Foudre;Électronique;Samir Haddad;10;34,90;16,80;Sud
+2023-09-25;P205;Bloc-notes adhésif Repère;Papeterie;Nora Lefèvre;17;3,90;1,40;Nord
+04/08/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;30;8,90;5,20;Île-de-France
+05/05/2023;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;24;14,90;7,30;Est
+08/06/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;69;2,80;0,95;Île-de-France
+28/06/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;11;39,90;19,70;Sud
+28/06/2023;P103;Caisson à roulettes Tiroir;Mobilier;Samir Haddad;3;179,00;112,00;Sud
+07/03/2023;P301;Bouilloire Vapeur;Électroménager;Inès Moreau;14;44,90;24,60;Ouest
+22/07/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;53;4,50;1,60;Nord
+21/07/2023;P405;Support voiture Cardan;Téléphonie;Yanis Perrot;7;29,90;12,60;Est
+10/07/2023;P402;Coque renforcée Carapace;Téléphonie;Samir Haddad;14;24,90;8,40;Sud
+23/08/2023;P201;Carnet A5 Feuillet;Papeterie;Yanis Perrot;33;6,90;2,80;Est
+2023-06-23;P402;Coque renforcée Carapace;Téléphonie;Sofia Renard;11;24,90;8,40;Centre
+2023-12-17;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;2;279,00;191,00;Île-de-France
+17/06/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;22;2,80;0,95;Est
+04/09/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;24;8,90;5,20;Nord
+24/09/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;7;19,90;8,90;Île-de-France
+03/12/2023;P002;Enceinte nomade Volta;Électronique;Camille Fournier;7;129,00;74,80;Île-de-France
+21/11/2023;P301;Bouilloire Vapeur;Électroménager;Samir Haddad;5;44,90;24,60;Sud
+20/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;25;2,80;0,95;Sud
+08/05/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Claire Vasseur;2;279,00;191,00;Centre
+06/11/2023;P205;Bloc-notes adhésif Repère;Papeterie;Malik Benali;42;3,90;1,40;Ouest
+15/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;69;2,80;0,95;Île-de-France
+06/03/2023;P205;Bloc-notes adhésif Repère;Papeterie;Léa Bonnet;24;3,90;1,40;Sud
+23/11/2023;P303;Micro-ondes Onde;Électroménager;Yanis Perrot;5;149,00;98,50;Est
+13/01/2023;P101;Chaise de bureau Assise;Mobilier;Thomas Girard;3;249,00;158,00;Nord
+2023-06-17;P202;Stylo roller Encre;Papeterie;Claire Vasseur;31;4,50;1,60;Centre
+09/02/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Thomas Girard;3;279,00;191,00;Nord
+07/10/2023;P008;Chargeur USB-C Foudre;Électronique;Thomas Girard;11;34,90;16,80;Nord
+08/11/2023;P104;Lampe d'architecte Faisceau;Mobilier;Thomas Girard;4;94,50;52,00;Nord
+30/08/2023;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;36;6,90;2,80;Nord
+11/12/2023;P007;Disque SSD 1 To Silex;Électronique;Yanis Perrot;2;109,00;72,10;Est
+11/11/2023;P303;Micro-ondes Onde;Électroménager;Samir Haddad;5;149,00;98,50;Sud
+2023-02-09;P401;Smartphone Signal;Téléphonie;Samir Haddad;4;449,00;331,00;Sud
+28/09/2023;P302;Machine à café Arôme;Électroménager;Malik Benali;3;219,00;143,00;Ouest
+08/12/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;11;14,90;7,30;Centre
+06/04/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;21;19,90;8,90;Île-de-France
+03/07/2023;P306;Aspirateur balai Souffle;Électroménager;Nora Lefèvre;-5;199,00;128,00;Nord
+24/09/2023;P105;Étagère modulaire Strate;Mobilier;Nora Lefèvre;6;139,00;86,50;Nord
+20/12/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;11;39,90;19,70;Centre
+16/10/2023;P003;Écran 27 pouces Lumen;Électronique;Léa Bonnet;4;329,00;214,00;Sud
+25/08/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;21;14,90;7,30;Ouest
+22/03/2023;P203;Ramette A4 Blancheur;Papeterie;Samir Haddad;21;8,90;5,20;Sud
+2023-12-28;P405;Support voiture Cardan;Téléphonie;Inès Moreau;13;29,90;12,60;Ouest
+20/10/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;3;89,90;51,30;Centre
+2023-10-18;P402;Coque renforcée Carapace;Téléphonie;Léa Bonnet;19;24,90;8,40;Sud
+04/02/2023;P006;Webcam HD Regard;Électronique;Claire Vasseur;5;79,00;44,20;Centre
+10/01/2023;P301;Bouilloire Vapeur;Électroménager;Malik Benali;8;44,90;24,60;Ouest
+30/07/2023;P305;Ventilateur colonne Brise;Électroménager;Thomas Girard;1;89,00;47,50;Nord
+26/10/2023;P008;Chargeur USB-C Foudre;Électronique;Hugo Marchand;10;34,90;16,80;Île-de-France
+2023-11-12;P404;Casque filaire Fil;Téléphonie;Yanis Perrot;18;19,90;8,90;Est
+2023-03-21;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;33;3,90;1,40;Est
+27/03/2023;P003;Écran 27 pouces Lumen;Électronique;Camille Fournier;2;329,00;214,00;Île-de-France
+2023-06-29;P302;Machine à café Arôme;Électroménager;Inès Moreau;5;219,00;143,00;Ouest
+23/08/2023;P106;Fauteuil visiteur Accueil;Mobilier;Nora Lefèvre;3;189,00;121,00;Nord
+21/07/2023;P007;Disque SSD 1 To Silex;Électronique;Camille Fournier;2;109,00;72,10;Île-de-France
+12/10/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;3;79,00;44,20;Est
+13/02/2023;P302;Machine à café Arôme;Électroménager;Inès Moreau;2;219,00;143,00;Ouest
+24/08/2023;P001;Casque Bluetooth Aria;Électronique;Yanis Perrot;5;89,90;51,30;Est
+25/11/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;31;14,90;5,10;Centre
+16/11/2023;P406;Câble tressé Lien;Téléphonie;Nora Lefèvre;34;14,90;5,10;Nord
+16/10/2023;P202;Stylo roller Encre;Papeterie;Claire Vasseur;18;4,50;1,60;Centre
+2023-07-15;P301;Bouilloire Vapeur;Électroménager;Thomas Girard;6;44,90;24,60;Nord
+16/10/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;7;8,90;5,20;Île-de-France
+09/08/2023;P101;Chaise de bureau Assise;Mobilier;Nora Lefèvre;3;249,00;158,00;Nord
+29/01/2023;P404;Casque filaire Fil;Téléphonie;Malik Benali;13;19,90;8,90;Ouest
+08/09/2023;P402;Coque renforcée Carapace;Téléphonie;Samir Haddad;8;24,90;8,40;Sud
+06/01/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;10;14,90;5,10;Est
+16/02/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;11;5,40;2,10;Centre
+2023-01-11;P402;Coque renforcée Carapace;Téléphonie;Inès Moreau;15;24,90;8,40;Ouest
+08/02/2023;P103;Caisson à roulettes Tiroir;Mobilier;Nora Lefèvre;3;179,00;112,00;Nord
+10/03/2023;P007;Disque SSD 1 To Silex;Électronique;Camille Fournier;4;109,00;72,10;Île-de-France
+09/01/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;51;2,80;0,95;Est
+15/12/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;3;279,00;191,00;Est
+25/12/2023;P103;Caisson à roulettes Tiroir;Mobilier;Nora Lefèvre;4;179,00;112,00;Nord
+2023-07-21;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;9;89,90;51,30;Centre
+11/09/2023;P002;Enceinte nomade Volta;Électronique;Thomas Girard;2;129,00;74,80;Nord
+07/07/2023;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;20;14,90;7,30;Île-de-France
+13/02/2023;P301;Bouilloire Vapeur;Électroménager;Bastien Roux;5;44,90;24,60;Est
+27/08/2023;P103;Caisson à roulettes Tiroir;Mobilier;Hugo Marchand;2;179,00;112,00;Île-de-France
+24/06/2023;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;4;199,00;128,00;Ouest
+17/12/2023;P008;Chargeur USB-C Foudre;Électronique;Léa Bonnet;14;34,90;16,80;Sud
+23/01/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;27;4,50;1,60;Île-de-France
+17/02/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;10;49,90;26,40;Île-de-France
+21/05/2023;P004;Clavier mécanique Frappe;Électronique;Malik Benali;5;119,50;68,90;Ouest
+18/03/2023;P207;Agrafeuse Attache;Papeterie;Samir Haddad;4;14,90;7,30;Sud
+19/01/2023;P402;Coque renforcée Carapace;Téléphonie;Yanis Perrot;16;24,90;8,40;Est
+08/05/2023;P106;Fauteuil visiteur Accueil;Mobilier;Claire Vasseur;6;189,00;121,00;Centre
+17/09/2023;P101;Chaise de bureau Assise;Mobilier;Malik Benali;2;249,00;158,00;Ouest
+11/04/2023;P303;Micro-ondes Onde;Électroménager;Hugo Marchand;5;149,00;98,50;Île-de-France
+07/09/2023;P406;Câble tressé Lien;Téléphonie;Léa Bonnet;19;14,90;5,10;Sud
+25/08/2023;P301;Bouilloire Vapeur;Électroménager;Nora Lefèvre;12;44,90;24,60;Nord
+18/05/2023;P207;Agrafeuse Attache;Papeterie;Thomas Girard;21;14,90;7,30;Nord
+03/03/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;41;3,90;1,40;Île-de-France
+12/05/2023;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;6;29,90;12,60;Île-de-France
+01/06/2023;P007;Disque SSD 1 To Silex;Électronique;Claire Vasseur;5;109,00;72,10;Centre
+2023-12-01;P301;Bouilloire Vapeur;Électroménager;Léa Bonnet;11;44,90;24,60;Sud
+02/01/2023;P305;Ventilateur colonne Brise;Électroménager;Yanis Perrot;5;89,00;47,50;Est
+11/06/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;7;49,90;26,40;Île-de-France
+29/12/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;2;449,00;331,00;Île-de-France
+25/04/2023;P001;Casque Bluetooth Aria;Électronique;Thomas Girard;3;89,90;51,30;Nord
+02/01/2023;P305;Ventilateur colonne Brise;Électroménager;Malik Benali;5;89,00;47,50;Ouest
+20/10/2023;P002;Enceinte nomade Volta;Électronique;Thomas Girard;4;129,00;74,80;Nord
+2023-05-15;P305;Ventilateur colonne Brise;Électroménager;Inès Moreau;5;89,00;47,50;Ouest
+12/04/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;31;8,90;5,20;Sud
+20/09/2023;P301;Bouilloire Vapeur;Électroménager;Claire Vasseur;12;44,90;24,60;Centre
+01/05/2023;P203;Ramette A4 Blancheur;Papeterie;Claire Vasseur;24;8,90;5,20;Centre
+27/06/2023;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;7;109,00;72,10;Sud
+19/06/2023;P301;Bouilloire Vapeur;Électroménager;Claire Vasseur;8;44,90;24,60;Centre
+03/06/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;11;49,90;26,40;Île-de-France
+13/06/2023;P103;Caisson à roulettes Tiroir;Mobilier;Camille Fournier;4;179,00;112,00;Île-de-France
+18/05/2023;P201;Carnet A5 Feuillet;Papeterie;Hugo Marchand;21;6,90;2,80;Île-de-France
+12/08/2023;P302;Machine à café Arôme;Électroménager;Nora Lefèvre;5;219,00;143,00;Nord
+19/07/2023;P305;Ventilateur colonne Brise;Électroménager;Malik Benali;6;89,00;47,50;Ouest
+09/12/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;31;3,90;1,40;Est
+04/09/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;11;39,90;19,70;Sud
+27/05/2023;P007;Disque SSD 1 To Silex;Électronique;Samir Haddad;4;109,00;72,10;Sud
+2023-04-11;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;37;6,90;2,80;Nord
+2023-12-28;P205;Bloc-notes adhésif Repère;Papeterie;Inès Moreau;51;3,90;1,40;Ouest
+2023-06-18;P204;Classeur à levier Dossier;Papeterie;Nora Lefèvre;20;5,40;2,10;Nord
+11/06/2023;P402;Coque renforcée Carapace;Téléphonie;Malik Benali;16;24,90;8,40;Ouest
+12/04/2023;P106;Fauteuil visiteur Accueil;Mobilier;Claire Vasseur;1;189,00;121,00;Centre
+11/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;70;2,80;0,95;Île-de-France
+04/01/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;41;5,40;2,10;Île-de-France
+20/09/2023;P104;Lampe d'architecte Faisceau;Mobilier;Camille Fournier;7;94,50;52,00;Île-de-France
+27/07/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;49;4,50;1,60;Nord
+10/11/2023;P401;Smartphone Signal;Téléphonie;Malik Benali;2;449,00;331,00;Ouest
+18/09/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;41;6,90;2,80;Ouest
+30/10/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;33;2,80;0,95;Sud
+20/12/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;10;39,90;19,70;Est
+15/09/2023;P002;Enceinte nomade Volta;Électronique;Léa Bonnet;5;129,00;74,80;Sud
+12/12/2023;P201;Carnet A5 Feuillet;Papeterie;Thomas Girard;34;6,90;2,80;Nord
+30/05/2023;P201;Carnet A5 Feuillet;Papeterie;Hugo Marchand;18;6,90;2,80;Île-de-France
+2023-10-23;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;9;89,90;51,30;Île-de-France
+2023-06-26;P002;Enceinte nomade Volta;Électronique;Yanis Perrot;3;129,00;74,80;Est
+09/09/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;31;6,90;2,80;Ouest
+05/02/2023;P103;Caisson à roulettes Tiroir;Mobilier;Samir Haddad;1;179,00;112,00;Sud
+09/10/2023;P402;Coque renforcée Carapace;Téléphonie;Samir Haddad;11;24,90;8,40;Sud
+22/10/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;1;449,00;331,00;Est
+21/05/2023;P402;Coque renforcée Carapace;Téléphonie;Inès Moreau;18;24,90;8,40;Ouest
+10/08/2023;P203;Ramette A4 Blancheur;Papeterie;Inès Moreau;24;8,90;5,20;Ouest
+2023-08-25;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;25;8,90;5,20;Nord
+25/07/2023;P405;Support voiture Cardan;Téléphonie;Nora Lefèvre;5;29,90;12,60;Nord
+13/12/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;4;79,00;44,20;Est
+31/12/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;3;449,00;331,00;Île-de-France
+25/10/2023;P101;Chaise de bureau Assise;Mobilier;Inès Moreau;2;249,00;158,00;Ouest
+20/10/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;43;4,50;1,60;Nord
+16/11/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;4;449,00;331,00;Île-de-France
+14/10/2023;P402;Coque renforcée Carapace;Téléphonie;Nora Lefèvre;17;24,90;8,40;Nord
+10/04/2023;P104;Lampe d'architecte Faisceau;Mobilier;Camille Fournier;8;94,50;52,00;Île-de-France
+30/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Malik Benali;27;3,90;1,40;Ouest
+15/10/2023;P105;Étagère modulaire Strate;Mobilier;Thomas Girard;1;139,00;86,50;Nord
+22/07/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;46;2,80;0,95;Est
+11/06/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;40;14,90;7,30;Sud
+31/01/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;19;14,90;7,30;Ouest
+06/02/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Claire Vasseur;3;279,00;191,00;Centre
+22/09/2023;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;15;29,90;12,60;Île-de-France
+11/06/2023;P302;Machine à café Arôme;Électroménager;Nora Lefèvre;3;219,00;143,00;Nord
+19/04/2023;P403;Batterie externe Réserve;Téléphonie;Inès Moreau;12;39,90;19,70;Ouest
+2023-11-09;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;44;3,90;1,40;Île-de-France
+08/04/2023;P404;Casque filaire Fil;Téléphonie;Thomas Girard;6;19,90;8,90;Nord
+07/02/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;3;199,00;128,00;Est
+21/11/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;39;6,90;2,80;Île-de-France
+10/12/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;18;19,90;8,90;Île-de-France
+08/08/2023;P003;Écran 27 pouces Lumen;Électronique;Nora Lefèvre;4;329,00;214,00;Nord
+12/11/2023;P003;Écran 27 pouces Lumen;Électronique;Camille Fournier;1;329,00;214,00;Île-de-France
+23/08/2023;P202;Stylo roller Encre;Papeterie;Samir Haddad;47;4,50;1,60;Sud
+2023-02-19;P005;Souris ergonomique Galet;Électronique;Thomas Girard;6;49,90;26,40;Nord
+08/10/2023;P105;Étagère modulaire Strate;Mobilier;Léa Bonnet;3;139,00;86,50;Sud
+15/09/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;22;8,90;5,20;Est
+14/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;53;2,80;0,95;Est
+18/06/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;20;6,90;2,80;Ouest
+2023-06-30;P006;Webcam HD Regard;Électronique;Camille Fournier;8;79,00;44,20;Île-de-France
+24/11/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;20;14,90;5,10;Centre
+01/08/2023;P007;Disque SSD 1 To Silex;Électronique;Malik Benali;4;109,00;72,10;Ouest
+29/09/2023;P203;Ramette A4 Blancheur;Papeterie;Thomas Girard;21;8,90;5,20;Nord
+06/09/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;38;8,90;5,20;Sud
+15/09/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;23;8,90;5,20;Île-de-France
+08/02/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;15;29,90;12,60;Île-de-France
+27/08/2023;P402;Coque renforcée Carapace;Téléphonie;Hugo Marchand;15;24,90;8,40;Île-de-France
+30/09/2023;P101;Chaise de bureau Assise;Mobilier;Léa Bonnet;2;249,00;158,00;Sud
+16/05/2023;P302;Machine à café Arôme;Électroménager;Nora Lefèvre;6;219,00;143,00;Nord
+04/08/2023;P301;Bouilloire Vapeur;Électroménager;Yanis Perrot;7;44,90;24,60;Est
+02/02/2023;P205;Bloc-notes adhésif Repère;Papeterie;Malik Benali;1;3,90;1,40;Ouest
+31/05/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;1;449,00;331,00;Est
+23/06/2023;P201;Carnet A5 Feuillet;Papeterie;Yanis Perrot;11;6,90;2,80;Est
+08/09/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;22;4,50;1,60;Nord
+2023-09-12;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;35;3,90;1,40;Est
+18/08/2023;P405;Support voiture Cardan;Téléphonie;Thomas Girard;12;29,90;12,60;Nord
+12/05/2023;P204;Classeur à levier Dossier;Papeterie;Malik Benali;16;5,40;2,10;Ouest
+10/11/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;6;39,90;19,70;Est
+14/04/2023;P206;Marqueur effaçable Ardoise;Papeterie;Nora Lefèvre;46;2,80;0,95;Nord
+26/04/2023;P008;Chargeur USB-C Foudre;Électronique;Thomas Girard;2;34,90;16,80;Nord
+11/09/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;45;5,40;2,10;Sud
+31/05/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;2;449,00;331,00;Est
+2023-06-07;P305;Ventilateur colonne Brise;Électroménager;Inès Moreau;4;89,00;47,50;Ouest
+27/07/2023;P302;Machine à café Arôme;Électroménager;Léa Bonnet;2;219,00;143,00;Sud
+2023-11-04;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;31;5,40;2,10;Sud
+27/02/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;46;2,80;0,95;Sud
+30/08/2023;P402;Coque renforcée Carapace;Téléphonie;Thomas Girard;9;24,90;8,40;Nord
+02/01/2023;P006;Webcam HD Regard;Électronique;Samir Haddad;5;79,00;44,20;Sud
+09/03/2023;P301;Bouilloire Vapeur;Électroménager;Claire Vasseur;14;44,90;24,60;Centre
+28/08/2023;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;22;5,40;2,10;Île-de-France
+01/02/2023;P406;Câble tressé Lien;Téléphonie;Hugo Marchand;12;14,90;5,10;Île-de-France
+2023-02-20;P002;Enceinte nomade Volta;Électronique;Inès Moreau;5;129,00;74,80;Ouest
+12/06/2023;P201;Carnet A5 Feuillet;Papeterie;Claire Vasseur;19;6,90;2,80;Centre
+17/07/2023;P201;Carnet A5 Feuillet;Papeterie;Thomas Girard;12;6,90;2,80;Nord
+05/10/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;21;6,90;2,80;Île-de-France
+13/01/2023;P004;Clavier mécanique Frappe;Électronique;Hugo Marchand;5;119,50;68,90;Île-de-France
+15/05/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;13;39,90;19,70;Nord
+04/11/2023;P202;Stylo roller Encre;Papeterie;Samir Haddad;30;4,50;1,60;Sud
+29/05/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;25;8,90;5,20;Île-de-France
+2023-03-08;P006;Webcam HD Regard;Électronique;Samir Haddad;6;79,00;44,20;Sud
+14/11/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;27;5,40;2,10;Centre
+06/01/2023;P103;Caisson à roulettes Tiroir;Mobilier;Léa Bonnet;4;179,00;112,00;Sud
+16/01/2023;P008;Chargeur USB-C Foudre;Électronique;Samir Haddad;3;34,90;16,80;Sud
+19/01/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;40;2,80;0,95;Île-de-France
+02/11/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;7;89,90;51,30;Sud
+10/08/2023;P204;Classeur à levier Dossier;Papeterie;Léa Bonnet;43;5,40;2,10;Sud
+03/04/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;9;14,90;5,10;Centre
+03/02/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;12;29,90;12,60;Île-de-France
+19/09/2023;P105;Étagère modulaire Strate;Mobilier;Thomas Girard;3;139,00;86,50;Nord
+03/10/2023;P008;Chargeur USB-C Foudre;Électronique;Hugo Marchand;10;34,90;16,80;Île-de-France
+10/07/2023;P205;Bloc-notes adhésif Repère;Papeterie;Inès Moreau;34;3,90;1,40;Ouest
+22/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;47;2,80;0,95;Île-de-France
+08/03/2023;P302;Machine à café Arôme;Électroménager;Inès Moreau;7;219,00;143,00;Ouest
+05/04/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;8;8,90;5,20;Ouest
+05/12/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;11;39,90;19,70;Nord
+27/10/2023;P104;Lampe d'architecte Faisceau;Mobilier;Léa Bonnet;5;94,50;52,00;Sud
+2023-12-17;P201;Carnet A5 Feuillet;Papeterie;Inès Moreau;41;6,90;2,80;Ouest
+01/11/2023;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;34;6,90;2,80;Sud
+18/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Léa Bonnet;57;3,90;1,40;Sud
+21/04/2023;P102;Bureau réglable Altitude;Mobilier;Léa Bonnet;3;549,00;371,00;Sud
+14/08/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;4;199,00;128,00;Sud
+07/09/2023;P403;Batterie externe Réserve;Téléphonie;Samir Haddad;13;39,90;19,70;Sud
+01/12/2023;P006;Webcam HD Regard;Électronique;Malik Benali;10;79,00;44,20;Ouest
+13/10/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;27;8,90;5,20;Île-de-France
+2023-09-12;P305;Ventilateur colonne Brise;Électroménager;Thomas Girard;7;89,00;47,50;Nord
+19/11/2023;P005;Souris ergonomique Galet;Électronique;Inès Moreau;8;49,90;26,40;Ouest
+01/08/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;3;449,00;331,00;Sud
+23/07/2023;P403;Batterie externe Réserve;Téléphonie;Malik Benali;13;39,90;19,70;Ouest
+24/06/2023;P101;Chaise de bureau Assise;Mobilier;Claire Vasseur;2;249,00;158,00;Centre
+08/10/2023;P201;Carnet A5 Feuillet;Papeterie;Yanis Perrot;22;6,90;2,80;Est
+16/06/2023;P305;Ventilateur colonne Brise;Électroménager;Thomas Girard;7;89,00;47,50;Nord
+03/04/2023;P202;Stylo roller Encre;Papeterie;Yanis Perrot;32;4,50;1,60;Est
+19/05/2023;P008;Chargeur USB-C Foudre;Électronique;Claire Vasseur;11;34,90;16,80;Centre
+19/04/2023;P305;Ventilateur colonne Brise;Électroménager;Camille Fournier;3;89,00;47,50;Île-de-France
+02/08/2023;P405;Support voiture Cardan;Téléphonie;Claire Vasseur;8;29,90;12,60;Centre
+04/10/2023;P203;Ramette A4 Blancheur;Papeterie;Thomas Girard;23;8,90;5,20;Nord
+06/10/2023;P402;Coque renforcée Carapace;Téléphonie;Yanis Perrot;11;24,90;8,40;Est
+14/07/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;5;199,00;128,00;Est
+13/10/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;20;8,90;5,20;Est
+08/11/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;9;89,90;51,30;Île-de-France
+23/05/2023;P102;Bureau réglable Altitude;Mobilier;Malik Benali;1;549,00;371,00;Ouest
+14/06/2023;P207;Agrafeuse Attache;Papeterie;Thomas Girard;15;14,90;7,30;Nord
+12/10/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;3;279,00;191,00;Est
+25/07/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Nora Lefèvre;2;279,00;191,00;Nord
+21/07/2023;P401;Smartphone Signal;Téléphonie;Thomas Girard;2;449,00;331,00;Nord
+10/12/2023;P005;Souris ergonomique Galet;Électronique;Inès Moreau;6;49,90;26,40;Ouest
+15/11/2023;P404;Casque filaire Fil;Téléphonie;Malik Benali;3;19,90;8,90;Ouest
+07/03/2023;P402;Coque renforcée Carapace;Téléphonie;Camille Fournier;5;24,90;8,40;Île-de-France
+01/02/2023;P008;Chargeur USB-C Foudre;Électronique;Yanis Perrot;14;34,90;16,80;Est
+10/09/2023;P406;Câble tressé Lien;Téléphonie;Thomas Girard;9;14,90;5,10;Nord
+15/10/2023;P105;Étagère modulaire Strate;Mobilier;Thomas Girard;2;139,00;86,50;Nord
+29/12/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;19;14,90;5,10;Centre
+11/08/2023;P003;Écran 27 pouces Lumen;Électronique;Hugo Marchand;2;329,00;214,00;Île-de-France
+29/01/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;24;19,90;8,90;Sud
+09/09/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;3;449,00;331,00;Est
+29/09/2023;P102;Bureau réglable Altitude;Mobilier;Nora Lefèvre;1;549,00;371,00;Nord
+21/08/2023;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;15;6,90;2,80;Nord
+01/09/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;8;39,90;19,70;Centre
+22/11/2023;P002;Enceinte nomade Volta;Électronique;Hugo Marchand;4;129,00;74,80;Île-de-France
+27/07/2023;P206;Marqueur effaçable Ardoise;Papeterie;Malik Benali;56;2,80;0,95;Ouest
+16/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;44;2,80;0,95;Nord
+09/06/2023;P005;Souris ergonomique Galet;Électronique;Yanis Perrot;6;49,90;26,40;Est
+10/12/2023;P303;Micro-ondes Onde;Électroménager;Thomas Girard;4;149,00;98,50;Nord
+02/06/2023;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;5;199,00;128,00;Ouest
+01/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;44;3,90;1,40;Île-de-France
+10/07/2023;P006;Webcam HD Regard;Électronique;Camille Fournier;6;79,00;44,20;Île-de-France
+13/11/2023;P301;Bouilloire Vapeur;Électroménager;Léa Bonnet;8;44,90;24,60;Sud
+2023-04-29;P402;Coque renforcée Carapace;Téléphonie;Léa Bonnet;17;24,90;8,40;Sud
+28/02/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;23;14,90;7,30;Sud
+30/10/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Samir Haddad;2;279,00;191,00;Sud
+12/01/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Sofia Renard;3;279,00;191,00;Centre
+11/12/2023;P303;Micro-ondes Onde;Électroménager;Yanis Perrot;5;149,00;98,50;Est
+04/06/2023;P302;Machine à café Arôme;Électroménager;Samir Haddad;4;219,00;143,00;Sud
+16/02/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;4;279,00;191,00;Est
+12/01/2023;P204;Classeur à levier Dossier;Papeterie;Léa Bonnet;14;5,40;2,10;Sud
+11/06/2023;P305;Ventilateur colonne Brise;Électroménager;Camille Fournier;12;89,00;47,50;Île-de-France
+21/07/2023;P403;Batterie externe Réserve;Téléphonie;Sofia Renard;5;39,90;19,70;Centre
+26/08/2023;P406;Câble tressé Lien;Téléphonie;Léa Bonnet;29;14,90;5,10;Sud
+28/12/2023;P305;Ventilateur colonne Brise;Électroménager;Samir Haddad;8;89,00;47,50;Sud
+21/11/2023;P005;Souris ergonomique Galet;Électronique;Nora Lefèvre;7;49,90;26,40;Nord
+20/10/2023;P302;Machine à café Arôme;Électroménager;Claire Vasseur;4;219,00;143,00;Centre
+04/12/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;21;14,90;5,10;Est
+15/07/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;1;199,00;128,00;Est
+02/08/2023;P302;Machine à café Arôme;Électroménager;Samir Haddad;4;219,00;143,00;Sud
+25/02/2023;P102;Bureau réglable Altitude;Mobilier;Hugo Marchand;2;549,00;371,00;Île-de-France
+27/09/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;24;8,90;5,20;Île-de-France
+19/04/2023;P004;Clavier mécanique Frappe;Électronique;Nora Lefèvre;6;119,50;68,90;Nord
+2023-02-24;P303;Micro-ondes Onde;Électroménager;Claire Vasseur;4;149,00;98,50;Centre
+26/08/2023;P303;Micro-ondes Onde;Électroménager;Claire Vasseur;5;149,00;98,50;Centre
+25/08/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;27;14,90;7,30;Sud
+16/06/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Hugo Marchand;3;279,00;191,00;Île-de-France
+11/09/2023;P401;Smartphone Signal;Téléphonie;Thomas Girard;1;449,00;331,00;Nord
+29/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;15;2,80;0,95;Île-de-France
+11/07/2023;P401;Smartphone Signal;Téléphonie;Thomas Girard;2;449,00;331,00;Nord
+27/07/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;29;4,50;1,60;Nord
+10/05/2023;P102;Bureau réglable Altitude;Mobilier;Nora Lefèvre;1;549,00;371,00;Nord
+2023-07-22;P006;Webcam HD Regard;Électronique;Yanis Perrot;5;79,00;44,20;Est
+2023-09-20;P001;Casque Bluetooth Aria;Électronique;Thomas Girard;6;89,90;51,30;Nord
+22/10/2023;P008;Chargeur USB-C Foudre;Électronique;Yanis Perrot;10;34,90;16,80;Est
+20/09/2023;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;1;14,90;7,30;Île-de-France
+16/09/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;24;14,90;7,30;Ouest
+30/12/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;21;14,90;5,10;Île-de-France
+19/06/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;36;4,50;1,60;Nord
+23/06/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;13;2,80;0,95;Île-de-France
+23/04/2023;P403;Batterie externe Réserve;Téléphonie;Hugo Marchand;4;39,90;19,70;Île-de-France
+01/06/2023;P101;Chaise de bureau Assise;Mobilier;Hugo Marchand;4;249,00;158,00;Île-de-France
+2023-01-07;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;34;5,40;2,10;Sud
+29/06/2023;P306;Aspirateur balai Souffle;Électroménager;Camille Fournier;-2;199,00;128,00;Île-de-France
+05/06/2023;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;2;329,00;214,00;Est
+02/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Claire Vasseur;24;3,90;1,40;Centre
+2023-11-21;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;8;49,90;26,40;Île-de-France
+03/02/2023;P105;Étagère modulaire Strate;Mobilier;Inès Moreau;5;139,00;86,50;Ouest
+03/04/2023;P406;Câble tressé Lien;Téléphonie;Claire Vasseur;9;14,90;5,10;Centre
+05/12/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;27;8,90;5,20;Nord
+10/11/2023;P404;Casque filaire Fil;Téléphonie;Claire Vasseur;10;19,90;8,90;Centre
+30/08/2023;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;10;109,00;72,10;Île-de-France
+17/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;62;2,80;0,95;Île-de-France
+13/01/2023;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;4;109,00;72,10;Sud
+25/03/2023;P406;Câble tressé Lien;Téléphonie;Hugo Marchand;22;14,90;5,10;Île-de-France
+22/05/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;48;6,90;2,80;Sud
+28/08/2023;P303;Micro-ondes Onde;Électroménager;Yanis Perrot;5;149,00;98,50;Est
+03/09/2023;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;5;199,00;128,00;Ouest
+08/01/2023;P103;Caisson à roulettes Tiroir;Mobilier;Yanis Perrot;5;179,00;112,00;Est
+30/09/2023;P106;Fauteuil visiteur Accueil;Mobilier;Camille Fournier;6;189,00;121,00;Île-de-France
+2023-03-14;P002;Enceinte nomade Volta;Électronique;Thomas Girard;5;129,00;74,80;Nord
+07/01/2023;P202;Stylo roller Encre;Papeterie;Camille Fournier;45;4,50;1,60;Île-de-France
+02/04/2023;P202;Stylo roller Encre;Papeterie;Léa Bonnet;61;4,50;1,60;Sud
+20/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Thomas Girard;33;3,90;1,40;Nord
+08/11/2023;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;25;14,90;7,30;Île-de-France
+06/12/2023;P006;Webcam HD Regard;Électronique;Hugo Marchand;5;79,00;44,20;Île-de-France
+26/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Inès Moreau;63;2,80;0,95;Ouest
+13/12/2023;P402;Coque renforcée Carapace;Téléphonie;Hugo Marchand;9;24,90;8,40;Île-de-France
+2023-12-17;P404;Casque filaire Fil;Téléphonie;Camille Fournier;22;19,90;8,90;Île-de-France
+15/12/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;10;39,90;19,70;Nord
+15/12/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;4;8,90;5,20;Est
+14/09/2023;P004;Clavier mécanique Frappe;Électronique;Léa Bonnet;6;119,50;68,90;Sud
+07/09/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;28;14,90;5,10;Île-de-France
+02/11/2023;P202;Stylo roller Encre;Papeterie;Inès Moreau;28;4,50;1,60;Ouest
+2023-07-14;P004;Clavier mécanique Frappe;Électronique;Léa Bonnet;4;119,50;68,90;Sud
+29/09/2023;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;2;109,00;72,10;Île-de-France
+2023-11-18;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;21;14,90;7,30;Île-de-France
+27/11/2023;P002;Enceinte nomade Volta;Électronique;Inès Moreau;4;129,00;74,80;Ouest
+2023-03-07;P206;Marqueur effaçable Ardoise;Papeterie;Léa Bonnet;40;2,80;0,95;Sud
+11/10/2023;P202;Stylo roller Encre;Papeterie;Thomas Girard;24;4,50;1,60;Nord
+27/10/2023;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;14;29,90;12,60;Île-de-France
+13/09/2023;P403;Batterie externe Réserve;Téléphonie;Hugo Marchand;7;39,90;19,70;Île-de-France
+31/07/2023;P303;Micro-ondes Onde;Électroménager;Nora Lefèvre;3;149,00;98,50;Nord
+03/01/2023;P008;Chargeur USB-C Foudre;Électronique;Camille Fournier;13;34,90;16,80;Île-de-France
+22/01/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;19;8,90;5,20;Nord
+03/12/2023;P004;Clavier mécanique Frappe;Électronique;Nora Lefèvre;4;119,50;68,90;Nord
+07/02/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;29;5,40;2,10;Sud
+22/05/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;14;19,90;8,90;Île-de-France
+09/09/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;20;8,90;5,20;Sud
+08/03/2023;P001;Casque Bluetooth Aria;Électronique;Léa Bonnet;6;89,90;51,30;Sud
+30/07/2023;P302;Machine à café Arôme;Électroménager;Samir Haddad;4;219,00;143,00;Sud
+2023-10-04;P001;Casque Bluetooth Aria;Électronique;Hugo Marchand;3;89,90;51,30;Île-de-France
+22/12/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;22;8,90;5,20;Est
+22/11/2023;P005;Souris ergonomique Galet;Électronique;Claire Vasseur;10;49,90;26,40;Centre
+15/03/2023;P207;Agrafeuse Attache;Papeterie;Camille Fournier;28;14,90;7,30;Île-de-France
+27/05/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Nora Lefèvre;4;279,00;191,00;Nord
+23/10/2023;P005;Souris ergonomique Galet;Électronique;Thomas Girard;9;49,90;26,40;Nord
+2023-06-16;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;3;199,00;128,00;Ouest
+04/01/2023;P106;Fauteuil visiteur Accueil;Mobilier;Claire Vasseur;4;189,00;121,00;Centre
+11/08/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;23;14,90;7,30;Centre
+09/06/2023;P305;Ventilateur colonne Brise;Électroménager;Yanis Perrot;6;89,00;47,50;Est
+19/07/2023;P404;Casque filaire Fil;Téléphonie;Yanis Perrot;9;19,90;8,90;Est
+26/12/2023;P301;Bouilloire Vapeur;Électroménager;Hugo Marchand;14;44,90;24,60;Île-de-France
+28/10/2023;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;4;109,00;72,10;Île-de-France
+2023-05-18;P406;Câble tressé Lien;Téléphonie;Camille Fournier;15;14,90;5,10;Île-de-France
+10/12/2023;P003;Écran 27 pouces Lumen;Électronique;Hugo Marchand;3;0,01;214,00;Île-de-France
+14/04/2023;P206;Marqueur effaçable Ardoise;Papeterie;Nora Lefèvre;46;2,80;0,95;Nord
+07/06/2023;P002;Enceinte nomade Volta;Électronique;Yanis Perrot;4;129,00;74,80;Est
+10/06/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;3;449,00;331,00;Sud
+21/09/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;17;6,90;2,80;Sud
+31/03/2023;P204;Classeur à levier Dossier;Papeterie;Yanis Perrot;34;5,40;2,10;Est
+30/01/2023;P002;Enceinte nomade Volta;Électronique;Nora Lefèvre;3;129,00;74,80;Nord
+21/10/2023;P202;Stylo roller Encre;Papeterie;Claire Vasseur;45;4,50;1,60;Centre
+18/04/2023;P204;Classeur à levier Dossier;Papeterie;Malik Benali;28;5,40;2,10;Ouest
+16/06/2023;P004;Clavier mécanique Frappe;Électronique;Claire Vasseur;4;119,50;68,90;Centre
+14/06/2023;P007;Disque SSD 1 To Silex;Électronique;Malik Benali;2;109,00;72,10;Ouest
+24/12/2023;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;1;329,00;214,00;Est
+10/09/2023;P202;Stylo roller Encre;Papeterie;Claire Vasseur;40;4,50;1,60;Centre
+26/06/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;38;8,90;5,20;Nord
+29/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Sofia Renard;36;3,90;1,40;Centre
+28/09/2023;P305;Ventilateur colonne Brise;Électroménager;Hugo Marchand;5;89,00;47,50;Île-de-France
+01/08/2023;P203;Ramette A4 Blancheur;Papeterie;Samir Haddad;27;8,90;5,20;Sud
+06/12/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;8;89,90;51,30;Centre
+05/07/2023;P008;Chargeur USB-C Foudre;Électronique;Claire Vasseur;11;34,90;16,80;Centre
+01/12/2023;P405;Support voiture Cardan;Téléphonie;Léa Bonnet;11;29,90;12,60;Sud
+18/12/2023;P005;Souris ergonomique Galet;Électronique;Léa Bonnet;10;49,90;26,40;Sud
+2023-09-28;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;40;3,90;1,40;Est
+23/12/2023;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;12;19,90;8,90;Île-de-France
+19/05/2023;P102;Bureau réglable Altitude;Mobilier;Léa Bonnet;3;549,00;371,00;Sud
+20/11/2023;P403;Batterie externe Réserve;Téléphonie;Camille Fournier;10;39,90;19,70;Île-de-France
+08/07/2023;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;19;3,90;1,40;Île-de-France
+26/08/2023;P405;Support voiture Cardan;Téléphonie;Claire Vasseur;15;29,90;12,60;Centre
+18/05/2023;P301;Bouilloire Vapeur;Électroménager;Hugo Marchand;13;44,90;24,60;Île-de-France
+08/05/2023;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;3;0,01;214,00;Est
+17/12/2023;P101;Chaise de bureau Assise;Mobilier;Samir Haddad;3;249,00;158,00;Sud
+10/07/2023;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;4;109,00;72,10;Île-de-France
+13/12/2023;P306;Aspirateur balai Souffle;Électroménager;Camille Fournier;2;199,00;128,00;Île-de-France
+14/12/2023;P008;Chargeur USB-C Foudre;Électronique;Samir Haddad;15;34,90;16,80;Sud
+17/06/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;12;5,40;2,10;Sud
+29/12/2023;P008;Chargeur USB-C Foudre;Électronique;Camille Fournier;13;34,90;16,80;Île-de-France
+2023-02-04;P002;Enceinte nomade Volta;Électronique;Samir Haddad;2;129,00;74,80;Sud
+18/03/2023;P306;Aspirateur balai Souffle;Électroménager;Camille Fournier;4;199,00;128,00;Île-de-France
+19/04/2023;P007;Disque SSD 1 To Silex;Électronique;Claire Vasseur;8;109,00;72,10;Centre
+09/10/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;3;89,90;51,30;Sud
+20/04/2023;P402;Coque renforcée Carapace;Téléphonie;Camille Fournier;8;24,90;8,40;Île-de-France
+06/07/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;31;14,90;5,10;Île-de-France
+02/06/2023;P102;Bureau réglable Altitude;Mobilier;Thomas Girard;1;549,00;371,00;Nord
+18/11/2023;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;5;109,00;72,10;Sud
+03/02/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;2;449,00;331,00;Nord
+09/12/2023;P402;Coque renforcée Carapace;Téléphonie;Yanis Perrot;15;24,90;8,40;Est
+31/03/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;1;279,00;191,00;Île-de-France
+06/02/2023;P207;Agrafeuse Attache;Papeterie;Thomas Girard;12;14,90;7,30;Nord
+09/06/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;19;14,90;5,10;Île-de-France
+10/03/2023;P401;Smartphone Signal;Téléphonie;Inès Moreau;3;449,00;331,00;Ouest
+23/09/2023;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;38;6,90;2,80;Sud
+10/08/2023;P302;Machine à café Arôme;Électroménager;Claire Vasseur;4;219,00;143,00;Centre
+30/03/2023;P201;Carnet A5 Feuillet;Papeterie;Claire Vasseur;16;6,90;2,80;Centre
+12/03/2023;P101;Chaise de bureau Assise;Mobilier;Léa Bonnet;5;249,00;158,00;Sud
+2023-07-11;P206;Marqueur effaçable Ardoise;Papeterie;Claire Vasseur;58;2,80;0,95;Centre
+20/01/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;10;49,90;26,40;Île-de-France
+15/10/2023;P102;Bureau réglable Altitude;Mobilier;Claire Vasseur;2;549,00;371,00;Centre
+23/10/2023;P106;Fauteuil visiteur Accueil;Mobilier;Yanis Perrot;3;189,00;121,00;Est
+12/01/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;41;5,40;2,10;Sud
+21/04/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;5;89,90;51,30;Sud
+10/09/2023;P405;Support voiture Cardan;Téléphonie;Thomas Girard;8;29,90;12,60;Nord
+11/07/2023;P002;Enceinte nomade Volta;Électronique;Yanis Perrot;6;129,00;74,80;Est
+01/11/2023;P006;Webcam HD Regard;Électronique;Claire Vasseur;4;79,00;44,20;Centre
+16/07/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;72;2,80;0,95;Île-de-France
+2023-01-26;P206;Marqueur effaçable Ardoise;Papeterie;Nora Lefèvre;70;2,80;0,95;Nord
+13/05/2023;P006;Webcam HD Regard;Électronique;Nora Lefèvre;4;79,00;44,20;Nord
+24/09/2023;P406;Câble tressé Lien;Téléphonie;Inès Moreau;23;14,90;5,10;Ouest
+24/08/2023;P402;Coque renforcée Carapace;Téléphonie;Claire Vasseur;12;24,90;8,40;Centre
+13/10/2023;P002;Enceinte nomade Volta;Électronique;Malik Benali;6;129,00;74,80;Ouest
+31/07/2023;P406;Câble tressé Lien;Téléphonie;Inès Moreau;22;14,90;5,10;Ouest
+27/12/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;2;89,90;51,30;Sud
+25/10/2023;P001;Casque Bluetooth Aria;Électronique;Hugo Marchand;6;89,90;51,30;Île-de-France
+16/12/2023;P303;Micro-ondes Onde;Électroménager;Nora Lefèvre;3;149,00;98,50;Nord
+29/09/2023;P406;Câble tressé Lien;Téléphonie;Hugo Marchand;18;14,90;5,10;Île-de-France
+06/08/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;12;14,90;7,30;Sud
+23/04/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;23;19,90;8,90;Île-de-France
+08/10/2023;P402;Coque renforcée Carapace;Téléphonie;Claire Vasseur;6;24,90;8,40;Centre
+22/01/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;5;89,90;51,30;Centre
+06/09/2023;P001;Casque Bluetooth Aria;Électronique;Sofia Renard;7;89,90;51,30;Centre
+23/03/2023;P101;Chaise de bureau Assise;Mobilier;Hugo Marchand;3;249,00;158,00;Île-de-France
+09/10/2023;P205;Bloc-notes adhésif Repère;Papeterie;Nora Lefèvre;29;3,90;1,40;Nord
+07/06/2023;P005;Souris ergonomique Galet;Électronique;Sofia Renard;6;49,90;26,40;Centre
+22/01/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;41;3,90;1,40;Sud
+18/09/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;22;8,90;5,20;Île-de-France
+08/11/2023;P002;Enceinte nomade Volta;Électronique;Claire Vasseur;6;129,00;74,80;Centre
+2023-10-29;P302;Machine à café Arôme;Électroménager;Inès Moreau;2;219,00;143,00;Ouest
+22/10/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;10;39,90;19,70;Nord
+07/12/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;9;14,90;5,10;Est
+10/07/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;8;89,90;51,30;Île-de-France
+24/01/2023;P402;Coque renforcée Carapace;Téléphonie;Samir Haddad;12;24,90;8,40;Sud
+01/08/2023;P204;Classeur à levier Dossier;Papeterie;Yanis Perrot;50;5,40;2,10;Est
+13/07/2023;P004;Clavier mécanique Frappe;Électronique;Léa Bonnet;4;119,50;68,90;Sud
+29/01/2023;P006;Webcam HD Regard;Électronique;Malik Benali;10;79,00;44,20;Ouest
+2023-03-02;P007;Disque SSD 1 To Silex;Électronique;Samir Haddad;6;109,00;72,10;Sud
+20/02/2023;P305;Ventilateur colonne Brise;Électroménager;Camille Fournier;8;89,00;47,50;Île-de-France
+2023-03-09;P402;Coque renforcée Carapace;Téléphonie;Thomas Girard;8;24,90;8,40;Nord
+15/08/2023;P207;Agrafeuse Attache;Papeterie;Nora Lefèvre;17;14,90;7,30;Nord
+29/08/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;17;29,90;12,60;Île-de-France
+10/06/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;2;449,00;331,00;Île-de-France
+07/07/2023;P302;Machine à café Arôme;Électroménager;Malik Benali;3;219,00;143,00;Ouest
+30/11/2023;P301;Bouilloire Vapeur;Électroménager;Thomas Girard;4;44,90;24,60;Nord
+02/02/2023;P002;Enceinte nomade Volta;Électronique;Inès Moreau;5;129,00;74,80;Ouest
+22/11/2023;P101;Chaise de bureau Assise;Mobilier;Malik Benali;3;249,00;158,00;Ouest
+15/12/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;4;279,00;191,00;Île-de-France
+10/01/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;66;2,80;0,95;Île-de-France
+24/09/2023;P006;Webcam HD Regard;Électronique;Léa Bonnet;4;79,00;44,20;Sud
+04/10/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;3;449,00;331,00;Île-de-France
+14/02/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;17;19,90;8,90;Sud
+17/11/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;9999;5,40;2,10;Sud
+20/09/2023;P004;Clavier mécanique Frappe;Électronique;Léa Bonnet;3;119,50;68,90;Sud
+2023-06-24;P306;Aspirateur balai Souffle;Électroménager;Malik Benali;2;199,00;128,00;Ouest
+12/08/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;5;39,90;19,70;Sud
+14/11/2023;P302;Machine à café Arôme;Électroménager;Yanis Perrot;1;219,00;143,00;Est
+08/02/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;28;14,90;7,30;Ouest
+24/12/2023;P002;Enceinte nomade Volta;Électronique;Claire Vasseur;4;129,00;74,80;Centre
+09/05/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;2;89,90;51,30;Sud
+2023-12-20;P302;Machine à café Arôme;Électroménager;Yanis Perrot;5;219,00;143,00;Est
+2023-05-30;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;2;449,00;331,00;Nord
+05/12/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Inès Moreau;3;279,00;191,00;Ouest
+18/11/2023;P006;Webcam HD Regard;Électronique;Camille Fournier;4;79,00;44,20;Île-de-France
+24/07/2023;P106;Fauteuil visiteur Accueil;Mobilier;Samir Haddad;1;189,00;121,00;Sud
+25/02/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;16;14,90;7,30;Centre
+30/01/2023;P402;Coque renforcée Carapace;Téléphonie;Sofia Renard;12;24,90;8,40;Centre
+30/10/2023;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;7;19,90;8,90;Île-de-France
+11/10/2023;P306;Aspirateur balai Souffle;Électroménager;Hugo Marchand;5;199,00;128,00;Île-de-France
+01/08/2023;P106;Fauteuil visiteur Accueil;Mobilier;Yanis Perrot;3;189,00;121,00;Est
+26/11/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;7;39,90;19,70;Est
+27/08/2023;P305;Ventilateur colonne Brise;Électroménager;Samir Haddad;3;89,00;47,50;Sud
+31/08/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;10;89,90;51,30;Île-de-France
+19/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;48;2,80;0,95;Nord
+26/06/2023;P401;Smartphone Signal;Téléphonie;Malik Benali;3;449,00;331,00;Ouest
+07/08/2023;P202;Stylo roller Encre;Papeterie;Camille Fournier;17;4,50;1,60;Île-de-France
+2023-12-13;P405;Support voiture Cardan;Téléphonie;Claire Vasseur;4;29,90;12,60;Centre
+08/07/2023;P106;Fauteuil visiteur Accueil;Mobilier;Hugo Marchand;5;189,00;121,00;Île-de-France
+17/11/2023;P406;Câble tressé Lien;Téléphonie;Inès Moreau;12;14,90;5,10;Ouest
+28/04/2023;P202;Stylo roller Encre;Papeterie;Malik Benali;7;4,50;1,60;Ouest
+28/11/2023;P002;Enceinte nomade Volta;Électronique;Inès Moreau;3;129,00;74,80;Ouest
+05/05/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;42;2,80;0,95;Sud
+2023-09-23;P207;Agrafeuse Attache;Papeterie;Inès Moreau;16;14,90;7,30;Ouest
+2023-03-09;P306;Aspirateur balai Souffle;Électroménager;Léa Bonnet;6;199,00;128,00;Sud
+06/02/2023;P204;Classeur à levier Dossier;Papeterie;Nora Lefèvre;21;5,40;2,10;Nord
+2023-06-10;P404;Casque filaire Fil;Téléphonie;Malik Benali;12;19,90;8,90;Ouest
+25/03/2023;P104;Lampe d'architecte Faisceau;Mobilier;Inès Moreau;5;94,50;52,00;Ouest
+05/08/2023;P005;Souris ergonomique Galet;Électronique;Inès Moreau;11;49,90;26,40;Ouest
+19/11/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;3;199,00;128,00;Sud
+2023-05-21;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;35;5,40;2,10;Île-de-France
+22/12/2023;P003;Écran 27 pouces Lumen;Électronique;Samir Haddad;1;329,00;214,00;Sud
+01/02/2023;P002;Enceinte nomade Volta;Électronique;Hugo Marchand;6;129,00;74,80;Île-de-France
+12/06/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;3;279,00;191,00;Est
+24/12/2023;P405;Support voiture Cardan;Téléphonie;Léa Bonnet;18;29,90;12,60;Sud
+01/03/2023;P302;Machine à café Arôme;Électroménager;Hugo Marchand;2;219,00;143,00;Île-de-France
+25/01/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;6;39,90;19,70;Est
+25/09/2023;P002;Enceinte nomade Volta;Électronique;Claire Vasseur;4;129,00;74,80;Centre
+26/11/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;18;14,90;7,30;Ouest
+19/01/2023;P204;Classeur à levier Dossier;Papeterie;Sofia Renard;34;5,40;2,10;Centre
+29/07/2023;P001;Casque Bluetooth Aria;Électronique;Yanis Perrot;7;89,90;51,30;Est
+25/04/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;5;49,90;26,40;Île-de-France
+17/07/2023;P403;Batterie externe Réserve;Téléphonie;Camille Fournier;11;39,90;19,70;Île-de-France
+14/09/2023;P001;Casque Bluetooth Aria;Électronique;Inès Moreau;11;89,90;51,30;Ouest
+23/09/2023;P203;Ramette A4 Blancheur;Papeterie;Inès Moreau;26;8,90;5,20;Ouest
+19/05/2023;P204;Classeur à levier Dossier;Papeterie;Yanis Perrot;23;5,40;2,10;Est
+27/08/2023;P404;Casque filaire Fil;Téléphonie;Yanis Perrot;11;19,90;8,90;Est
+11/05/2023;P305;Ventilateur colonne Brise;Électroménager;Hugo Marchand;5;89,00;47,50;Île-de-France
+09/07/2023;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;3;109,00;72,10;Île-de-France
+17/10/2023;P201;Carnet A5 Feuillet;Papeterie;Hugo Marchand;34;6,90;2,80;Île-de-France
+30/12/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;42;5,40;2,10;Île-de-France
+10/07/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;6;199,00;128,00;Sud
+09/09/2023;P401;Smartphone Signal;Téléphonie;Claire Vasseur;2;449,00;331,00;Centre
+06/12/2023;P007;Disque SSD 1 To Silex;Électronique;Yanis Perrot;5;109,00;72,10;Est
+23/03/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;10;39,90;19,70;Est
+01/07/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;11;39,90;19,70;Sud
+11/10/2023;P203;Ramette A4 Blancheur;Papeterie;Thomas Girard;12;8,90;5,20;Nord
+23/09/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;45;5,40;2,10;Île-de-France
+12/01/2023;P303;Micro-ondes Onde;Électroménager;Thomas Girard;3;149,00;98,50;Nord
+23/08/2023;P004;Clavier mécanique Frappe;Électronique;Nora Lefèvre;6;119,50;68,90;Nord
+2023-07-25;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Nora Lefèvre;2;279,00;191,00;Nord
+20/05/2023;P104;Lampe d'architecte Faisceau;Mobilier;Yanis Perrot;5;94,50;52,00;Est
+23/04/2023;P203;Ramette A4 Blancheur;Papeterie;Thomas Girard;13;8,90;5,20;Nord
+12/09/2023;P008;Chargeur USB-C Foudre;Électronique;Claire Vasseur;16;34,90;16,80;Centre
+2023-09-26;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;15;19,90;8,90;Sud
+2023-06-24;P106;Fauteuil visiteur Accueil;Mobilier;Samir Haddad;5;189,00;121,00;Sud
+07/06/2023;P002;Enceinte nomade Volta;Électronique;Léa Bonnet;2;129,00;74,80;Sud
+02/09/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;48;4,50;1,60;Île-de-France
+26/02/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;38;3,90;1,40;Est
+16/03/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;2;449,00;331,00;Nord
+2023-08-12;P301;Bouilloire Vapeur;Électroménager;Inès Moreau;2;44,90;24,60;Ouest
+13/06/2023;P405;Support voiture Cardan;Téléphonie;Yanis Perrot;12;29,90;12,60;Est
+20/08/2023;P008;Chargeur USB-C Foudre;Électronique;Malik Benali;17;34,90;16,80;Ouest
+2023-10-02;P404;Casque filaire Fil;Téléphonie;Camille Fournier;1;19,90;8,90;Île-de-France
+31/12/2023;P005;Souris ergonomique Galet;Électronique;Samir Haddad;5;49,90;26,40;Sud
+17/08/2023;P202;Stylo roller Encre;Papeterie;Inès Moreau;12;4,50;1,60;Ouest
+2023-01-13;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;2;109,00;72,10;Sud
+11/02/2023;P306;Aspirateur balai Souffle;Électroménager;Thomas Girard;1;199,00;128,00;Nord
+23/06/2023;P303;Micro-ondes Onde;Électroménager;Samir Haddad;3;149,00;98,50;Sud
+28/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Malik Benali;53;2,80;0,95;Ouest
+27/04/2023;P203;Ramette A4 Blancheur;Papeterie;Inès Moreau;27;8,90;5,20;Ouest
+26/02/2023;P305;Ventilateur colonne Brise;Électroménager;Yanis Perrot;6;89,00;47,50;Est
+2023-11-27;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;69;2,80;0,95;Île-de-France
+20/01/2023;P006;Webcam HD Regard;Électronique;Malik Benali;4;79,00;44,20;Ouest
+22/08/2023;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;23;14,90;7,30;Est
+09/08/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;1;14,90;7,30;Ouest
+02/07/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;8;89,90;51,30;Sud
+15/05/2023;P303;Micro-ondes Onde;Électroménager;Hugo Marchand;5;149,00;98,50;Île-de-France
+20/10/2023;P007;Disque SSD 1 To Silex;Électronique;Camille Fournier;3;109,00;72,10;Île-de-France
+01/08/2023;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;29;6,90;2,80;Sud
+2023-10-04;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;15;6,90;2,80;Nord
+17/08/2023;P406;Câble tressé Lien;Téléphonie;Samir Haddad;19;14,90;5,10;Sud
+13/04/2023;P004;Clavier mécanique Frappe;Électronique;Nora Lefèvre;3;119,50;68,90;Nord
+26/09/2023;P105;Étagère modulaire Strate;Mobilier;Nora Lefèvre;5;139,00;86,50;Nord
+03/01/2023;P106;Fauteuil visiteur Accueil;Mobilier;Nora Lefèvre;4;189,00;121,00;Nord
+05/07/2023;P207;Agrafeuse Attache;Papeterie;Camille Fournier;17;14,90;7,30;Île-de-France
+30/06/2023;P203;Ramette A4 Blancheur;Papeterie;Claire Vasseur;24;8,90;5,20;Centre
+29/08/2023;P306;Aspirateur balai Souffle;Électroménager;Claire Vasseur;4;199,00;128,00;Centre
+02/05/2023;P102;Bureau réglable Altitude;Mobilier;Samir Haddad;1;549,00;371,00;Sud
+2023-11-25;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;34;2,80;0,95;Nord
+27/06/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;27;8,90;5,20;Île-de-France
+18/10/2023;P202;Stylo roller Encre;Papeterie;Yanis Perrot;28;4,50;1,60;Est
+19/11/2023;P302;Machine à café Arôme;Électroménager;Samir Haddad;2;219,00;143,00;Sud
+07/11/2023;P404;Casque filaire Fil;Téléphonie;Nora Lefèvre;20;19,90;8,90;Nord
+11/10/2023;P004;Clavier mécanique Frappe;Électronique;Yanis Perrot;3;119,50;68,90;Est
+2023-10-24;P005;Souris ergonomique Galet;Électronique;Camille Fournier;14;49,90;26,40;Île-de-France
+2023-04-02;P204;Classeur à levier Dossier;Papeterie;Malik Benali;23;5,40;2,10;Ouest
+18/05/2023;P403;Batterie externe Réserve;Téléphonie;Inès Moreau;6;39,90;19,70;Ouest
+05/11/2023;P003;Écran 27 pouces Lumen;Électronique;Claire Vasseur;3;329,00;214,00;Centre
+02/01/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;36;6,90;2,80;Sud
+18/12/2023;P008;Chargeur USB-C Foudre;Électronique;Nora Lefèvre;10;34,90;16,80;Nord
+09/10/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;4;79,00;44,20;Est
+18/09/2023;P406;Câble tressé Lien;Téléphonie;Inès Moreau;23;14,90;5,10;Ouest
+31/05/2023;P006;Webcam HD Regard;Électronique;Nora Lefèvre;4;79,00;44,20;Nord
+22/12/2023;P302;Machine à café Arôme;Électroménager;Nora Lefèvre;5;219,00;143,00;Nord
+11/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Thomas Girard;44;3,90;1,40;Nord
+24/05/2023;P305;Ventilateur colonne Brise;Électroménager;Hugo Marchand;5;89,00;47,50;Île-de-France
+18/04/2023;P008;Chargeur USB-C Foudre;Électronique;Claire Vasseur;5;34,90;16,80;Centre
+23/02/2023;P003;Écran 27 pouces Lumen;Électronique;Samir Haddad;2;329,00;214,00;Sud
+23/10/2023;P001;Casque Bluetooth Aria;Électronique;Léa Bonnet;9999;89,90;51,30;Sud
+15/05/2023;P006;Webcam HD Regard;Électronique;Nora Lefèvre;6;79,00;44,20;Nord
+26/06/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;2;199,00;128,00;Est
+2023-04-10;P106;Fauteuil visiteur Accueil;Mobilier;Claire Vasseur;3;189,00;121,00;Centre
+13/06/2023;P306;Aspirateur balai Souffle;Électroménager;Claire Vasseur;4;199,00;128,00;Centre
+16/09/2023;P105;Étagère modulaire Strate;Mobilier;Léa Bonnet;7;139,00;86,50;Sud
+2023-07-21;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;40;2,80;0,95;Est
+07/06/2023;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;12;14,90;7,30;Est
+18/05/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;22;5,40;2,10;Île-de-France
+07/02/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;20;14,90;7,30;Ouest
+30/08/2023;P303;Micro-ondes Onde;Électroménager;Nora Lefèvre;5;149,00;98,50;Nord
+28/11/2023;P001;Casque Bluetooth Aria;Électronique;Yanis Perrot;4;89,90;51,30;Est
+13/08/2023;P101;Chaise de bureau Assise;Mobilier;Yanis Perrot;2;249,00;158,00;Est
+05/03/2023;P005;Souris ergonomique Galet;Électronique;Malik Benali;4;49,90;26,40;Ouest
+04/03/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;1;449,00;331,00;Île-de-France
+17/07/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;6;79,00;44,20;Est
+17/02/2023;P305;Ventilateur colonne Brise;Électroménager;Thomas Girard;3;89,00;47,50;Nord
+14/12/2023;P406;Câble tressé Lien;Téléphonie;Léa Bonnet;28;14,90;5,10;Sud
+27/06/2023;P001;Casque Bluetooth Aria;Électronique;Hugo Marchand;6;89,90;51,30;Île-de-France
+05/08/2023;P105;Étagère modulaire Strate;Mobilier;Yanis Perrot;4;139,00;86,50;Est
+16/02/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;33;2,80;0,95;Nord
+03/03/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;41;3,90;1,40;Île-de-France
+22/08/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;3;279,00;191,00;Est
+30/11/2023;P305;Ventilateur colonne Brise;Électroménager;Thomas Girard;6;89,00;47,50;Nord
+08/11/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;50;6,90;2,80;Ouest
+13/09/2023;P002;Enceinte nomade Volta;Électronique;Inès Moreau;6;129,00;74,80;Ouest
+15/02/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Samir Haddad;2;279,00;191,00;Sud
+2023-02-20;P105;Étagère modulaire Strate;Mobilier;Inès Moreau;5;139,00;86,50;Ouest
+08/04/2023;P305;Ventilateur colonne Brise;Électroménager;Nora Lefèvre;6;89,00;47,50;Nord
+04/01/2023;P305;Ventilateur colonne Brise;Électroménager;Claire Vasseur;3;89,00;47,50;Centre
+24/12/2023;P204;Classeur à levier Dossier;Papeterie;Inès Moreau;1;5,40;2,10;Ouest
+21/04/2023;P305;Ventilateur colonne Brise;Électroménager;Claire Vasseur;3;89,00;47,50;Centre
+16/03/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;7;89,90;51,30;Île-de-France
+13/06/2023;P305;Ventilateur colonne Brise;Électroménager;Thomas Girard;8;89,00;47,50;Nord
+12/10/2023;P007;Disque SSD 1 To Silex;Électronique;Camille Fournier;6;109,00;72,10;Île-de-France
+06/06/2023;P401;Smartphone Signal;Téléphonie;Hugo Marchand;2;449,00;331,00;Île-de-France
+16/05/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;3;199,00;128,00;Est
+21/07/2023;P008;Chargeur USB-C Foudre;Électronique;Léa Bonnet;14;34,90;16,80;Sud
+14/11/2023;P106;Fauteuil visiteur Accueil;Mobilier;Camille Fournier;2;189,00;121,00;Île-de-France
+15/07/2023;P306;Aspirateur balai Souffle;Électroménager;Hugo Marchand;2;199,00;128,00;Île-de-France
+05/01/2023;P007;Disque SSD 1 To Silex;Électronique;Nora Lefèvre;5;109,00;72,10;Nord
+25/08/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;4;279,00;191,00;Île-de-France
+2023-04-25;P402;Coque renforcée Carapace;Téléphonie;Samir Haddad;11;24,90;8,40;Sud
+04/05/2023;P201;Carnet A5 Feuillet;Papeterie;Thomas Girard;30;6,90;2,80;Nord
+01/07/2023;P008;Chargeur USB-C Foudre;Électronique;Hugo Marchand;8;34,90;16,80;Île-de-France
+15/11/2023;P301;Bouilloire Vapeur;Électroménager;Léa Bonnet;15;44,90;24,60;Sud
+12/02/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;19;19,90;8,90;Île-de-France
+25/03/2023;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;12;14,90;7,30;Est
+2023-11-17;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Samir Haddad;2;279,00;191,00;Sud
+16/04/2023;P301;Bouilloire Vapeur;Électroménager;Yanis Perrot;6;44,90;24,60;Est
+30/12/2023;P101;Chaise de bureau Assise;Mobilier;Camille Fournier;3;249,00;158,00;Île-de-France
+01/08/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;2;449,00;331,00;Île-de-France
+25/09/2023;P302;Machine à café Arôme;Électroménager;Thomas Girard;2;219,00;143,00;Nord
+2023-09-28;P203;Ramette A4 Blancheur;Papeterie;Samir Haddad;29;8,90;5,20;Sud
+13/03/2023;P205;Bloc-notes adhésif Repère;Papeterie;Nora Lefèvre;36;3,90;1,40;Nord
+2023-08-31;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;2;329,00;214,00;Est
+15/06/2023;P303;Micro-ondes Onde;Électroménager;Léa Bonnet;3;149,00;98,50;Sud
+2023-04-27;P405;Support voiture Cardan;Téléphonie;Camille Fournier;17;29,90;12,60;Île-de-France
+18/09/2023;P001;Casque Bluetooth Aria;Électronique;Thomas Girard;4;89,90;51,30;Nord
+31/03/2023;P104;Lampe d'architecte Faisceau;Mobilier;Yanis Perrot;4;94,50;52,00;Est
+26/10/2023;P004;Clavier mécanique Frappe;Électronique;Thomas Girard;4;119,50;68,90;Nord
+21/06/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;33;5,40;2,10;Sud
+2023-04-18;P402;Coque renforcée Carapace;Téléphonie;Nora Lefèvre;26;24,90;8,40;Nord
+29/07/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;7;79,00;44,20;Est
+17/01/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;32;6,90;2,80;Ouest
+19/06/2023;P301;Bouilloire Vapeur;Électroménager;Samir Haddad;10;44,90;24,60;Sud
+2023-10-12;P104;Lampe d'architecte Faisceau;Mobilier;Camille Fournier;7;94,50;52,00;Île-de-France
+2023-06-07;P103;Caisson à roulettes Tiroir;Mobilier;Samir Haddad;4;179,00;112,00;Sud
+2023-06-08;P204;Classeur à levier Dossier;Papeterie;Yanis Perrot;28;5,40;2,10;Est
+08/04/2023;P105;Étagère modulaire Strate;Mobilier;Samir Haddad;5;139,00;86,50;Sud
+11/11/2023;P106;Fauteuil visiteur Accueil;Mobilier;Léa Bonnet;4;189,00;121,00;Sud
+24/12/2023;P002;Enceinte nomade Volta;Électronique;Claire Vasseur;4;129,00;74,80;Centre
+19/04/2023;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;8;19,90;8,90;Île-de-France
+14/08/2023;P002;Enceinte nomade Volta;Électronique;Léa Bonnet;5;129,00;74,80;Sud
+13/05/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;27;19,90;8,90;Sud
+20/02/2023;P008;Chargeur USB-C Foudre;Électronique;Samir Haddad;13;34,90;16,80;Sud
+13/02/2023;P101;Chaise de bureau Assise;Mobilier;Nora Lefèvre;2;249,00;158,00;Nord
+07/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;42;2,80;0,95;Nord
+22/08/2023;P203;Ramette A4 Blancheur;Papeterie;Samir Haddad;13;8,90;5,20;Sud
+30/03/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;21;5,40;2,10;Centre
+18/01/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;6;89,90;51,30;Île-de-France
+09/02/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;4;449,00;331,00;Nord
+04/12/2023;P301;Bouilloire Vapeur;Électroménager;Inès Moreau;10;44,90;24,60;Ouest
+2023-08-23;P004;Clavier mécanique Frappe;Électronique;Camille Fournier;6;119,50;68,90;Île-de-France
+2023-10-10;P205;Bloc-notes adhésif Repère;Papeterie;Claire Vasseur;36;3,90;1,40;Centre
+04/08/2023;P203;Ramette A4 Blancheur;Papeterie;Thomas Girard;20;8,90;5,20;Nord
+03/12/2023;P003;Écran 27 pouces Lumen;Électronique;Thomas Girard;3;329,00;214,00;Nord
+02/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Léa Bonnet;50;2,80;0,95;Sud
+18/07/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;28;5,40;2,10;Centre
+27/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;64;2,80;0,95;Île-de-France
+04/06/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;32;14,90;5,10;Île-de-France
+04/03/2023;P306;Aspirateur balai Souffle;Électroménager;Thomas Girard;2;199,00;128,00;Nord
+12/02/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;27;4,50;1,60;Île-de-France
+19/10/2023;P001;Casque Bluetooth Aria;Électronique;Yanis Perrot;5;89,90;51,30;Est
+23/08/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;10;39,90;19,70;Centre
+30/01/2023;P006;Webcam HD Regard;Électronique;Inès Moreau;11;79,00;44,20;Ouest
+22/09/2023;P305;Ventilateur colonne Brise;Électroménager;Léa Bonnet;5;89,00;47,50;Sud
+21/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Inès Moreau;72;2,80;0,95;Ouest
+07/11/2023;P104;Lampe d'architecte Faisceau;Mobilier;Claire Vasseur;4;94,50;52,00;Centre
+19/04/2023;P101;Chaise de bureau Assise;Mobilier;Yanis Perrot;1;249,00;158,00;Est
+30/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;6;3,90;1,40;Île-de-France
+31/05/2023;P401;Smartphone Signal;Téléphonie;Claire Vasseur;2;449,00;331,00;Centre
+23/06/2023;P103;Caisson à roulettes Tiroir;Mobilier;Claire Vasseur;5;179,00;112,00;Centre
+13/07/2023;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;7;29,90;12,60;Île-de-France
+03/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Léa Bonnet;63;3,90;1,40;Sud
+24/11/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;3;449,00;331,00;Sud
+18/06/2023;P302;Machine à café Arôme;Électroménager;Samir Haddad;2;219,00;143,00;Sud
+18/01/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Thomas Girard;2;279,00;191,00;Nord
+2023-12-28;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;11;29,90;12,60;Île-de-France
+08/05/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;15;19,90;8,90;Sud
+2023-10-07;P105;Étagère modulaire Strate;Mobilier;Hugo Marchand;8;139,00;86,50;Île-de-France
+23/12/2023;P003;Écran 27 pouces Lumen;Électronique;Malik Benali;1;329,00;214,00;Ouest
+2023-02-20;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;10;3,90;1,40;Île-de-France
+16/08/2023;P205;Bloc-notes adhésif Repère;Papeterie;Léa Bonnet;56;3,90;1,40;Sud
+23/12/2023;P007;Disque SSD 1 To Silex;Électronique;Yanis Perrot;5;109,00;72,10;Est
+18/02/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;7;39,90;19,70;Centre
+09/09/2023;P102;Bureau réglable Altitude;Mobilier;Samir Haddad;2;549,00;371,00;Sud
+01/07/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Thomas Girard;3;279,00;191,00;Nord
+2023-04-29;P203;Ramette A4 Blancheur;Papeterie;Thomas Girard;17;8,90;5,20;Nord
+2023-03-11;P202;Stylo roller Encre;Papeterie;Camille Fournier;47;4,50;1,60;Île-de-France
+2023-08-16;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;38;5,40;2,10;Sud
+05/05/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;9;39,90;19,70;Est
+10/04/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;24;14,90;7,30;Ouest
+06/05/2023;P106;Fauteuil visiteur Accueil;Mobilier;Thomas Girard;3;189,00;121,00;Nord
+2023-01-07;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;39;5,40;2,10;Île-de-France
+09/10/2023;P003;Écran 27 pouces Lumen;Électronique;Claire Vasseur;3;329,00;214,00;Centre
+30/09/2023;P002;Enceinte nomade Volta;Électronique;Yanis Perrot;6;129,00;74,80;Est
+28/05/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;3;449,00;331,00;Île-de-France
+05/01/2023;P008;Chargeur USB-C Foudre;Électronique;Samir Haddad;5;34,90;16,80;Sud
+15/10/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;37;6,90;2,80;Sud
+10/11/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;28;8,90;5,20;Ouest
+25/03/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;28;14,90;7,30;Sud
+05/08/2023;P207;Agrafeuse Attache;Papeterie;Malik Benali;4;14,90;7,30;Ouest
+29/09/2023;P003;Écran 27 pouces Lumen;Électronique;Nora Lefèvre;3;329,00;214,00;Nord
+16/09/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;22;5,40;2,10;Sud
+2023-09-20;P406;Câble tressé Lien;Téléphonie;Samir Haddad;15;14,90;5,10;Sud
+13/05/2023;P204;Classeur à levier Dossier;Papeterie;Inès Moreau;22;5,40;2,10;Ouest
+2023-12-10;P105;Étagère modulaire Strate;Mobilier;Hugo Marchand;2;139,00;86,50;Île-de-France
+28/12/2023;P204;Classeur à levier Dossier;Papeterie;Yanis Perrot;35;5,40;2,10;Est
+21/10/2023;P201;Carnet A5 Feuillet;Papeterie;Hugo Marchand;34;6,90;2,80;Île-de-France
+12/11/2023;P403;Batterie externe Réserve;Téléphonie;Hugo Marchand;8;39,90;19,70;Île-de-France
+01/11/2023;P001;Casque Bluetooth Aria;Électronique;Yanis Perrot;6;89,90;51,30;Est
+23/05/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Sofia Renard;2;279,00;191,00;Centre
+18/10/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;31;6,90;2,80;Sud
+06/04/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;12;14,90;7,30;Centre
+26/04/2023;P001;Casque Bluetooth Aria;Électronique;Léa Bonnet;6;89,90;51,30;Sud
+17/12/2023;P207;Agrafeuse Attache;Papeterie;Malik Benali;11;14,90;7,30;Ouest
+30/07/2023;P402;Coque renforcée Carapace;Téléphonie;Malik Benali;10;24,90;8,40;Ouest
+09/04/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Inès Moreau;4;279,00;191,00;Ouest
+23/05/2023;P105;Étagère modulaire Strate;Mobilier;Yanis Perrot;3;139,00;86,50;Est
+25/05/2023;P403;Batterie externe Réserve;Téléphonie;Hugo Marchand;8;39,90;19,70;Île-de-France
+2023-07-11;P005;Souris ergonomique Galet;Électronique;Claire Vasseur;10;49,90;26,40;Centre
+08/03/2023;P302;Machine à café Arôme;Électroménager;Inès Moreau;7;219,00;143,00;Ouest
+2023-01-07;P203;Ramette A4 Blancheur;Papeterie;Claire Vasseur;20;8,90;5,20;Centre
+05/07/2023;P204;Classeur à levier Dossier;Papeterie;Thomas Girard;46;5,40;2,10;Nord
+2023-03-07;P401;Smartphone Signal;Téléphonie;Yanis Perrot;2;449,00;331,00;Est
+2023-08-02;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;14;14,90;7,30;Île-de-France
+26/10/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;35;8,90;5,20;Île-de-France
+28/10/2023;P004;Clavier mécanique Frappe;Électronique;Inès Moreau;4;119,50;68,90;Ouest
+2023-08-08;P206;Marqueur effaçable Ardoise;Papeterie;Nora Lefèvre;58;2,80;0,95;Nord
+23/06/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;7;89,90;51,30;Sud
+19/11/2023;P008;Chargeur USB-C Foudre;Électronique;Hugo Marchand;10;34,90;16,80;Île-de-France
+12/11/2023;P203;Ramette A4 Blancheur;Papeterie;Inès Moreau;32;8,90;5,20;Ouest
+15/11/2023;P101;Chaise de bureau Assise;Mobilier;Léa Bonnet;3;249,00;158,00;Sud
+25/12/2023;P206;Marqueur effaçable Ardoise;Papeterie;Malik Benali;60;2,80;0,95;Ouest
+22/02/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;5;279,00;191,00;Île-de-France
+01/06/2023;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;3;199,00;128,00;Ouest
+08/02/2023;P103;Caisson à roulettes Tiroir;Mobilier;Nora Lefèvre;3;179,00;112,00;Nord
+2023-06-27;P406;Câble tressé Lien;Téléphonie;Malik Benali;12;14,90;5,10;Ouest
+07/11/2023;P003;Écran 27 pouces Lumen;Électronique;Léa Bonnet;3;329,00;214,00;Sud
+18/11/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Inès Moreau;5;279,00;191,00;Ouest
+19/12/2023;P205;Bloc-notes adhésif Repère;Papeterie;Malik Benali;17;3,90;1,40;Ouest
+22/08/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;41;8,90;5,20;Nord
+25/05/2023;P404;Casque filaire Fil;Téléphonie;Samir Haddad;17;0,01;8,90;Sud
+29/09/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;3;199,00;128,00;Est
+05/12/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;35;3,90;1,40;Sud
+17/05/2023;P303;Micro-ondes Onde;Électroménager;Thomas Girard;1;149,00;98,50;Nord
+2023-08-31;P008;Chargeur USB-C Foudre;Électronique;Yanis Perrot;9;34,90;16,80;Est
+04/07/2023;P004;Clavier mécanique Frappe;Électronique;Inès Moreau;2;119,50;68,90;Ouest
+2023-07-16;P003;Écran 27 pouces Lumen;Électronique;Malik Benali;2;329,00;214,00;Ouest
+25/07/2023;P301;Bouilloire Vapeur;Électroménager;Claire Vasseur;7;44,90;24,60;Centre
+27/06/2023;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;60;5,40;2,10;Île-de-France
+01/03/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;4;279,00;191,00;Île-de-France
+20/03/2023;P105;Étagère modulaire Strate;Mobilier;Inès Moreau;4;139,00;86,50;Ouest
+17/12/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Thomas Girard;2;279,00;191,00;Nord
+03/02/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;55;3,90;1,40;Île-de-France
+10/04/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;32;3,90;1,40;Est
+27/11/2023;P106;Fauteuil visiteur Accueil;Mobilier;Hugo Marchand;5;189,00;121,00;Île-de-France
+2023-02-06;P103;Caisson à roulettes Tiroir;Mobilier;Yanis Perrot;3;179,00;112,00;Est
+08/02/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;3;89,90;51,30;Sud
+18/08/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;45;8,90;5,20;Sud
+2023-12-08;P004;Clavier mécanique Frappe;Électronique;Léa Bonnet;10;119,50;68,90;Sud
+14/08/2023;P207;Agrafeuse Attache;Papeterie;Samir Haddad;10;14,90;7,30;Sud
+24/11/2023;P004;Clavier mécanique Frappe;Électronique;Thomas Girard;4;119,50;68,90;Nord
+08/01/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;3;449,00;331,00;Île-de-France
+18/12/2023;P008;Chargeur USB-C Foudre;Électronique;Léa Bonnet;10;34,90;16,80;Sud
+26/10/2023;P104;Lampe d'architecte Faisceau;Mobilier;Léa Bonnet;6;94,50;52,00;Sud
+29/10/2023;P005;Souris ergonomique Galet;Électronique;Camille Fournier;10;49,90;26,40;Île-de-France
+10/11/2023;P005;Souris ergonomique Galet;Électronique;Yanis Perrot;3;49,90;26,40;Est
+2023-11-28;P404;Casque filaire Fil;Téléphonie;Thomas Girard;15;19,90;8,90;Nord
+12/12/2023;P404;Casque filaire Fil;Téléphonie;Malik Benali;16;19,90;8,90;Ouest
+24/03/2023;P003;Écran 27 pouces Lumen;Électronique;Léa Bonnet;4;329,00;214,00;Sud
+03/03/2023;P006;Webcam HD Regard;Électronique;Camille Fournier;10;79,00;44,20;Île-de-France
+03/12/2023;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;21;6,90;2,80;Nord
+02/10/2023;P101;Chaise de bureau Assise;Mobilier;Camille Fournier;3;249,00;158,00;Île-de-France
+13/03/2023;P405;Support voiture Cardan;Téléphonie;Thomas Girard;8;29,90;12,60;Nord
+22/11/2023;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;12;14,90;7,30;Est
+29/12/2023;P403;Batterie externe Réserve;Téléphonie;Samir Haddad;8;39,90;19,70;Sud
+26/02/2023;P102;Bureau réglable Altitude;Mobilier;Sofia Renard;2;549,00;371,00;Centre
+16/10/2023;P202;Stylo roller Encre;Papeterie;Léa Bonnet;38;4,50;1,60;Sud
+14/07/2023;P006;Webcam HD Regard;Électronique;Camille Fournier;6;79,00;44,20;Île-de-France
+2023-02-01;P302;Machine à café Arôme;Électroménager;Inès Moreau;4;219,00;143,00;Ouest
+13/03/2023;P003;Écran 27 pouces Lumen;Électronique;Claire Vasseur;2;329,00;214,00;Centre
+2023-09-09;P201;Carnet A5 Feuillet;Papeterie;Yanis Perrot;40;6,90;2,80;Est
+27/01/2023;P001;Casque Bluetooth Aria;Électronique;Léa Bonnet;7;89,90;51,30;Sud
+2023-08-07;P405;Support voiture Cardan;Téléphonie;Inès Moreau;10;29,90;12,60;Ouest
+24/12/2023;P101;Chaise de bureau Assise;Mobilier;Yanis Perrot;2;249,00;158,00;Est
+09/03/2023;P004;Clavier mécanique Frappe;Électronique;Samir Haddad;3;119,50;68,90;Sud
+24/01/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;17;14,90;5,10;Île-de-France
+04/10/2023;P002;Enceinte nomade Volta;Électronique;Nora Lefèvre;4;129,00;74,80;Nord
+08/09/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;37;5,40;2,10;Sud
+22/07/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;3;89,90;51,30;Centre
+2023-01-04;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Camille Fournier;1;279,00;191,00;Île-de-France
+31/03/2023;P402;Coque renforcée Carapace;Téléphonie;Léa Bonnet;18;24,90;8,40;Sud
+06/11/2023;P105;Étagère modulaire Strate;Mobilier;Malik Benali;6;139,00;86,50;Ouest
+2023-02-28;P303;Micro-ondes Onde;Électroménager;Camille Fournier;5;149,00;98,50;Île-de-France
+13/01/2023;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;4;109,00;72,10;Sud
+2023-04-05;P204;Classeur à levier Dossier;Papeterie;Malik Benali;41;5,40;2,10;Ouest
+08/09/2023;P402;Coque renforcée Carapace;Téléphonie;Yanis Perrot;19;24,90;8,40;Est
+03/11/2023;P101;Chaise de bureau Assise;Mobilier;Hugo Marchand;1;249,00;158,00;Île-de-France
+08/12/2023;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;20;14,90;7,30;Île-de-France
+20/06/2023;P306;Aspirateur balai Souffle;Électroménager;Claire Vasseur;3;199,00;128,00;Centre
+20/11/2023;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;64;3,90;1,40;Île-de-France
+15/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Samir Haddad;70;2,80;0,95;Sud
+21/07/2023;P401;Smartphone Signal;Téléphonie;Thomas Girard;2;449,00;331,00;Nord
+13/08/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;15;8,90;5,20;Île-de-France
+01/10/2023;P205;Bloc-notes adhésif Repère;Papeterie;Inès Moreau;67;3,90;1,40;Ouest
+16/10/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;31;8,90;5,20;Île-de-France
+17/07/2023;P406;Câble tressé Lien;Téléphonie;Samir Haddad;9;14,90;5,10;Sud
+13/11/2023;P306;Aspirateur balai Souffle;Électroménager;Thomas Girard;3;199,00;128,00;Nord
+09/05/2023;P004;Clavier mécanique Frappe;Électronique;Hugo Marchand;6;119,50;68,90;Île-de-France
+01/09/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;26;5,40;2,10;Centre
+02/03/2023;P001;Casque Bluetooth Aria;Électronique;Inès Moreau;9;89,90;51,30;Ouest
+2023-03-02;P008;Chargeur USB-C Foudre;Électronique;Léa Bonnet;10;34,90;16,80;Sud
+2023-05-23;P005;Souris ergonomique Galet;Électronique;Malik Benali;7;49,90;26,40;Ouest
+17/08/2023;P301;Bouilloire Vapeur;Électroménager;Inès Moreau;8;44,90;24,60;Ouest
+26/04/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;35;8,90;5,20;Île-de-France
+10/09/2023;P202;Stylo roller Encre;Papeterie;Samir Haddad;24;4,50;1,60;Sud
+12/11/2023;P302;Machine à café Arôme;Électroménager;Yanis Perrot;5;219,00;143,00;Est
+04/09/2023;P001;Casque Bluetooth Aria;Électronique;Samir Haddad;7;89,90;51,30;Sud
+07/08/2023;P305;Ventilateur colonne Brise;Électroménager;Samir Haddad;8;89,00;47,50;Sud
+2023-02-28;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;5;109,00;72,10;Île-de-France
+05/06/2023;P305;Ventilateur colonne Brise;Électroménager;Inès Moreau;2;89,00;47,50;Ouest
+04/08/2023;P106;Fauteuil visiteur Accueil;Mobilier;Hugo Marchand;3;189,00;121,00;Île-de-France
+02/09/2023;P105;Étagère modulaire Strate;Mobilier;Thomas Girard;6;139,00;86,50;Nord
+01/10/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;44;5,40;2,10;Île-de-France
+19/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;64;2,80;0,95;Île-de-France
+2023-03-28;P401;Smartphone Signal;Téléphonie;Camille Fournier;3;449,00;331,00;Île-de-France
+28/01/2023;P005;Souris ergonomique Galet;Électronique;Claire Vasseur;8;49,90;26,40;Centre
+13/12/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;42;5,40;2,10;Île-de-France
+31/01/2023;P303;Micro-ondes Onde;Électroménager;Thomas Girard;3;149,00;98,50;Nord
+11/02/2023;P404;Casque filaire Fil;Téléphonie;Inès Moreau;15;19,90;8,90;Ouest
+04/08/2023;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;12;29,90;12,60;Île-de-France
+17/09/2023;P106;Fauteuil visiteur Accueil;Mobilier;Yanis Perrot;3;189,00;121,00;Est
+22/03/2023;P004;Clavier mécanique Frappe;Électronique;Inès Moreau;7;119,50;68,90;Ouest
+06/12/2023;P206;Marqueur effaçable Ardoise;Papeterie;Claire Vasseur;44;2,80;0,95;Centre
+10/06/2023;P001;Casque Bluetooth Aria;Électronique;Inès Moreau;9;89,90;51,30;Ouest
+27/02/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;26;4,50;1,60;Île-de-France
+26/10/2023;P401;Smartphone Signal;Téléphonie;Samir Haddad;2;449,00;331,00;Sud
+22/09/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;11;89,90;51,30;Île-de-France
+23/12/2023;P405;Support voiture Cardan;Téléphonie;Hugo Marchand;13;29,90;12,60;Île-de-France
+31/10/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;53;2,80;0,95;Île-de-France
+20/06/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;26;2,80;0,95;Est
+10/12/2023;P105;Étagère modulaire Strate;Mobilier;Malik Benali;4;139,00;86,50;Ouest
+15/03/2023;P305;Ventilateur colonne Brise;Électroménager;Camille Fournier;6;89,00;47,50;Île-de-France
+08/11/2023;P006;Webcam HD Regard;Électronique;Malik Benali;5;79,00;44,20;Ouest
+2023-07-26;P401;Smartphone Signal;Téléphonie;Bastien Roux;1;449,00;331,00;Est
+10/02/2023;P006;Webcam HD Regard;Électronique;Nora Lefèvre;10;79,00;44,20;Nord
+24/11/2023;P301;Bouilloire Vapeur;Électroménager;Inès Moreau;8;44,90;24,60;Ouest
+09/02/2023;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;1;199,00;128,00;Ouest
+08/09/2023;P202;Stylo roller Encre;Papeterie;Léa Bonnet;32;4,50;1,60;Sud
+22/04/2023;P302;Machine à café Arôme;Électroménager;Camille Fournier;2;219,00;143,00;Île-de-France
+14/12/2023;P204;Classeur à levier Dossier;Papeterie;Léa Bonnet;24;5,40;2,10;Sud
+15/04/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;6;8,90;5,20;Est
+09/01/2023;P104;Lampe d'architecte Faisceau;Mobilier;Léa Bonnet;4;94,50;52,00;Sud
+02/12/2023;P001;Casque Bluetooth Aria;Électronique;Nora Lefèvre;6;89,90;51,30;Nord
+16/11/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;8;49,90;26,40;Île-de-France
+26/04/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;37;3,90;1,40;Sud
+04/10/2023;P006;Webcam HD Regard;Électronique;Hugo Marchand;7;79,00;44,20;Île-de-France
+19/10/2023;P202;Stylo roller Encre;Papeterie;Inès Moreau;25;4,50;1,60;Ouest
+02/09/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;48;4,50;1,60;Île-de-France
+16/02/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;30;3,90;1,40;Est
+17/11/2023;P201;Carnet A5 Feuillet;Papeterie;Malik Benali;27;6,90;2,80;Ouest
+07/06/2023;P002;Enceinte nomade Volta;Électronique;Claire Vasseur;2;129,00;74,80;Centre
+10/01/2023;P305;Ventilateur colonne Brise;Électroménager;Hugo Marchand;5;89,00;47,50;Île-de-France
+30/09/2023;P106;Fauteuil visiteur Accueil;Mobilier;Léa Bonnet;1;189,00;121,00;Sud
+13/08/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;30;8,90;5,20;Ouest
+14/01/2023;P205;Bloc-notes adhésif Repère;Papeterie;Claire Vasseur;35;3,90;1,40;Centre
+08/05/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;15;19,90;8,90;Sud
+07/08/2023;P305;Ventilateur colonne Brise;Électroménager;Samir Haddad;4;89,00;47,50;Sud
+25/12/2023;P003;Écran 27 pouces Lumen;Électronique;Camille Fournier;4;329,00;214,00;Île-de-France
+22/08/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;41;8,90;5,20;Nord
+2023-04-15;P102;Bureau réglable Altitude;Mobilier;Claire Vasseur;1;549,00;371,00;Centre
+08/06/2023;P004;Clavier mécanique Frappe;Électronique;Samir Haddad;3;119,50;68,90;Sud
+27/06/2023;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;60;5,40;2,10;Île-de-France
+2023-02-25;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;23;5,40;2,10;Sud
+21/09/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;3;89,90;51,30;Île-de-France
+17/02/2023;P201;Carnet A5 Feuillet;Papeterie;Yanis Perrot;25;6,90;2,80;Est
+12/05/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;4;89,90;51,30;Île-de-France
+09/06/2023;P306;Aspirateur balai Souffle;Électroménager;Claire Vasseur;2;199,00;128,00;Centre
+12/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;57;2,80;0,95;Nord
+16/08/2023;P002;Enceinte nomade Volta;Électronique;Camille Fournier;5;129,00;74,80;Île-de-France
+05/11/2023;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;2;329,00;214,00;Est
+02/06/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;2;279,00;191,00;Est
+16/03/2023;P301;Bouilloire Vapeur;Électroménager;Léa Bonnet;8;44,90;24,60;Sud
+05/04/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;9;39,90;19,70;Sud
+04/09/2023;P207;Agrafeuse Attache;Papeterie;Samir Haddad;7;14,90;7,30;Sud
+24/10/2023;P104;Lampe d'architecte Faisceau;Mobilier;Hugo Marchand;9;94,50;52,00;Île-de-France
+30/07/2023;P003;Écran 27 pouces Lumen;Électronique;Nora Lefèvre;2;329,00;214,00;Nord
+01/10/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;14;19,90;8,90;Île-de-France
+24/12/2023;P401;Smartphone Signal;Téléphonie;Inès Moreau;3;449,00;331,00;Ouest
+31/12/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;28;4,50;1,60;Nord
+08/04/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;43;14,90;7,30;Sud
+2023-11-26;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;8;109,00;72,10;Sud
+01/02/2023;P008;Chargeur USB-C Foudre;Électronique;Malik Benali;4;34,90;16,80;Ouest
+31/12/2023;P302;Machine à café Arôme;Électroménager;Malik Benali;4500;219,00;143,00;Ouest
+10/07/2023;P305;Ventilateur colonne Brise;Électroménager;Samir Haddad;-7;89,00;47,50;Sud
+12/07/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;1;79,00;44,20;Est
+23/06/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;6;49,90;26,40;Île-de-France
+26/03/2023;P008;Chargeur USB-C Foudre;Électronique;Samir Haddad;9;34,90;16,80;Sud
+03/11/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;35;3,90;1,40;Est
+07/04/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;39;4,50;1,60;Île-de-France
+2023-01-25;P202;Stylo roller Encre;Papeterie;Camille Fournier;29;4,50;1,60;Île-de-France
+13/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;41;2,80;0,95;Est
+21/09/2023;P202;Stylo roller Encre;Papeterie;Yanis Perrot;23;4,50;1,60;Est
+13/09/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;10;14,90;7,30;Sud
+2023-05-03;P207;Agrafeuse Attache;Papeterie;Nora Lefèvre;23;14,90;7,30;Nord
+14/11/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;56;6,90;2,80;Île-de-France
+16/03/2023;P301;Bouilloire Vapeur;Électroménager;Nora Lefèvre;3;44,90;24,60;Nord
+2023-02-11;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Nora Lefèvre;5;279,00;191,00;Nord
+05/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;54;2,80;0,95;Est
+08/11/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;31;8,90;5,20;Nord
+2023-07-07;P202;Stylo roller Encre;Papeterie;Hugo Marchand;44;4,50;1,60;Île-de-France
+20/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;46;3,90;1,40;Est
+17/05/2023;P402;Coque renforcée Carapace;Téléphonie;Malik Benali;12;24,90;8,40;Ouest
+24/08/2023;P001;Casque Bluetooth Aria;Électronique;Hugo Marchand;6;89,90;51,30;Île-de-France
+13/11/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;5;79,00;44,20;Est
+12/11/2023;P004;Clavier mécanique Frappe;Électronique;Thomas Girard;3;119,50;68,90;Nord
+28/05/2023;P102;Bureau réglable Altitude;Mobilier;Camille Fournier;3;549,00;371,00;Île-de-France
+02/09/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;16;19,90;8,90;Île-de-France
+15/03/2023;P004;Clavier mécanique Frappe;Électronique;Hugo Marchand;5;119,50;68,90;Île-de-France
+2023-03-20;P404;Casque filaire Fil;Téléphonie;Samir Haddad;15;19,90;8,90;Sud
+24/12/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;55;3,90;1,40;Sud
+16/08/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;27;8,90;5,20;Île-de-France
+08/04/2023;P005;Souris ergonomique Galet;Électronique;Malik Benali;11;49,90;26,40;Ouest
+09/04/2023;P008;Chargeur USB-C Foudre;Électronique;Léa Bonnet;15;34,90;16,80;Sud
+13/10/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;3;449,00;331,00;Sud
+10/03/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;19;5,40;2,10;Île-de-France
+22/01/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;19;14,90;7,30;Centre
+25/06/2023;P203;Ramette A4 Blancheur;Papeterie;Inès Moreau;31;8,90;5,20;Ouest
+23/09/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;20;5,40;2,10;Sud
+19/06/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;20;14,90;7,30;Ouest
+19/11/2023;P008;Chargeur USB-C Foudre;Électronique;Yanis Perrot;12;34,90;16,80;Est
+23/04/2023;P301;Bouilloire Vapeur;Électroménager;Nora Lefèvre;10;44,90;24,60;Nord
+2023-05-21;P205;Bloc-notes adhésif Repère;Papeterie;Léa Bonnet;48;3,90;1,40;Sud
+01/07/2023;P305;Ventilateur colonne Brise;Électroménager;Claire Vasseur;3;89,00;47,50;Centre
+08/10/2023;P207;Agrafeuse Attache;Papeterie;Léa Bonnet;21;14,90;7,30;Sud
+15/10/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;46;4,50;1,60;Nord
+19/04/2023;P202;Stylo roller Encre;Papeterie;Malik Benali;38;4,50;1,60;Ouest
+15/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;32;3,90;1,40;Est
+07/09/2023;P306;Aspirateur balai Souffle;Électroménager;Nora Lefèvre;3;199,00;128,00;Nord
+08/05/2023;P404;Casque filaire Fil;Téléphonie;Camille Fournier;9;19,90;8,90;Île-de-France
+02/06/2023;P406;Câble tressé Lien;Téléphonie;Malik Benali;23;14,90;5,10;Ouest
+25/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;25;2,80;0,95;Est
+23/11/2023;P204;Classeur à levier Dossier;Papeterie;Samir Haddad;34;5,40;2,10;Sud
+23/02/2023;P003;Écran 27 pouces Lumen;Électronique;Samir Haddad;2;329,00;214,00;Sud
+2023-01-30;P201;Carnet A5 Feuillet;Papeterie;Inès Moreau;37;6,90;2,80;Ouest
+30/01/2023;P403;Batterie externe Réserve;Téléphonie;Yanis Perrot;8;39,90;19,70;Est
+05/06/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;35;8,90;5,20;Sud
+09/11/2023;P008;Chargeur USB-C Foudre;Électronique;Claire Vasseur;8;34,90;16,80;Centre
+20/07/2023;P102;Bureau réglable Altitude;Mobilier;Léa Bonnet;3;549,00;371,00;Sud
+01/11/2023;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;38;3,90;1,40;Île-de-France
+24/05/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;6;5,40;2,10;Centre
+01/11/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;10;14,90;5,10;Est
+20/07/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;17;2,80;0,95;Nord
+10/10/2023;P303;Micro-ondes Onde;Électroménager;Hugo Marchand;5;149,00;98,50;Île-de-France
+04/10/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;8;39,90;19,70;Centre
+10/05/2023;P302;Machine à café Arôme;Électroménager;Claire Vasseur;4;219,00;143,00;Centre
+09/09/2023;P201;Carnet A5 Feuillet;Papeterie;Hugo Marchand;24;6,90;2,80;Île-de-France
+09/09/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;8;49,90;26,40;Île-de-France
+14/07/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;1;14,90;5,10;Est
+05/06/2023;P102;Bureau réglable Altitude;Mobilier;Claire Vasseur;2;549,00;371,00;Centre
+06/12/2023;P302;Machine à café Arôme;Électroménager;Camille Fournier;4;219,00;143,00;Île-de-France
+14/02/2023;P103;Caisson à roulettes Tiroir;Mobilier;Thomas Girard;5;179,00;112,00;Nord
+2023-09-14;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Nora Lefèvre;2;279,00;191,00;Nord
+24/11/2023;P404;Casque filaire Fil;Téléphonie;Inès Moreau;9;19,90;8,90;Ouest
+23/06/2023;P003;Écran 27 pouces Lumen;Électronique;Hugo Marchand;3;329,00;214,00;Île-de-France
+07/03/2023;P405;Support voiture Cardan;Téléphonie;Samir Haddad;8;29,90;12,60;Sud
+16/06/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;3;199,00;128,00;Est
+14/11/2023;P105;Étagère modulaire Strate;Mobilier;Hugo Marchand;4500;139,00;86,50;Île-de-France
+15/12/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;4;8,90;5,20;Est
+11/10/2023;P001;Casque Bluetooth Aria;Électronique;Thomas Girard;5;89,90;51,30;Nord
+25/08/2023;P104;Lampe d'architecte Faisceau;Mobilier;Hugo Marchand;5;94,50;52,00;Île-de-France
+25/01/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;40;2,80;0,95;Est
+12/05/2023;P003;Écran 27 pouces Lumen;Électronique;Yanis Perrot;3;329,00;214,00;Est
+24/08/2023;P206;Marqueur effaçable Ardoise;Papeterie;Yanis Perrot;14;2,80;0,95;Est
+07/11/2023;P007;Disque SSD 1 To Silex;Électronique;Claire Vasseur;7;109,00;72,10;Centre
+27/10/2023;P205;Bloc-notes adhésif Repère;Papeterie;Nora Lefèvre;13;3,90;1,40;Nord
+21/06/2023;P007;Disque SSD 1 To Silex;Électronique;Hugo Marchand;5;109,00;72,10;Île-de-France
+27/04/2023;P305;Ventilateur colonne Brise;Électroménager;Claire Vasseur;8;89,00;47,50;Centre
+01/06/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;44;3,90;1,40;Est
+06/12/2023;P004;Clavier mécanique Frappe;Électronique;Nora Lefèvre;4;119,50;68,90;Nord
+20/11/2023;P002;Enceinte nomade Volta;Électronique;Yanis Perrot;6;129,00;74,80;Est
+2023-01-29;P005;Souris ergonomique Galet;Électronique;Léa Bonnet;4;49,90;26,40;Sud
+15/11/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;35;8,90;5,20;Île-de-France
+01/04/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;12;39,90;19,70;Nord
+31/07/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Claire Vasseur;1;279,00;191,00;Centre
+2023-11-30;P007;Disque SSD 1 To Silex;Électronique;Samir Haddad;5;109,00;72,10;Sud
+07/05/2023;P306;Aspirateur balai Souffle;Électroménager;Malik Benali;3;199,00;128,00;Ouest
+14/04/2023;P406;Câble tressé Lien;Téléphonie;Nora Lefèvre;23;14,90;5,10;Nord
+2023-08-24;P008;Chargeur USB-C Foudre;Électronique;Léa Bonnet;4;34,90;16,80;Sud
+05/09/2023;P104;Lampe d'architecte Faisceau;Mobilier;Inès Moreau;11;94,50;52,00;Ouest
+2023-01-22;P205;Bloc-notes adhésif Repère;Papeterie;Léa Bonnet;33;3,90;1,40;Sud
+31/07/2023;P001;Casque Bluetooth Aria;Électronique;Hugo Marchand;6;89,90;51,30;Île-de-France
+2023-04-05;P102;Bureau réglable Altitude;Mobilier;Léa Bonnet;3;549,00;371,00;Sud
+2023-07-18;P403;Batterie externe Réserve;Téléphonie;Hugo Marchand;11;39,90;19,70;Île-de-France
+08/03/2023;P404;Casque filaire Fil;Téléphonie;Léa Bonnet;12;19,90;8,90;Sud
+11/03/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;15;39,90;19,70;Nord
+18/09/2023;P201;Carnet A5 Feuillet;Papeterie;Claire Vasseur;37;6,90;2,80;Centre
+26/03/2023;P105;Étagère modulaire Strate;Mobilier;Yanis Perrot;4;139,00;86,50;Est
+16/06/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;9999;8,90;5,20;Île-de-France
+05/09/2023;P104;Lampe d'architecte Faisceau;Mobilier;Inès Moreau;11;94,50;52,00;Ouest
+29/11/2023;P406;Câble tressé Lien;Téléphonie;Hugo Marchand;13;14,90;5,10;Île-de-France
+28/08/2023;P002;Enceinte nomade Volta;Électronique;Camille Fournier;8;129,00;74,80;Île-de-France
+07/02/2023;P301;Bouilloire Vapeur;Électroménager;Hugo Marchand;11;44,90;24,60;Île-de-France
+15/02/2023;P401;Smartphone Signal;Téléphonie;Samir Haddad;2;449,00;331,00;Sud
+25/10/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;68;2,80;0,95;Île-de-France
+23/12/2023;P002;Enceinte nomade Volta;Électronique;Hugo Marchand;3;129,00;74,80;Île-de-France
+25/09/2023;P006;Webcam HD Regard;Électronique;Thomas Girard;6;79,00;44,20;Nord
+2023-06-12;P202;Stylo roller Encre;Papeterie;Inès Moreau;17;4,50;1,60;Ouest
+19/05/2023;P004;Clavier mécanique Frappe;Électronique;Inès Moreau;6;0,01;68,90;Ouest
+04/12/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;23;6,90;2,80;Île-de-France
+06/04/2023;P402;Coque renforcée Carapace;Téléphonie;Inès Moreau;13;24,90;8,40;Ouest
+25/10/2023;P205;Bloc-notes adhésif Repère;Papeterie;Yanis Perrot;19;3,90;1,40;Est
+03/10/2023;P303;Micro-ondes Onde;Électroménager;Yanis Perrot;1;149,00;98,50;Est
+15/09/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;29;8,90;5,20;Île-de-France
+11/07/2023;P404;Casque filaire Fil;Téléphonie;Nora Lefèvre;9;19,90;8,90;Nord
+17/08/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;28;5,40;2,10;Île-de-France
+24/12/2023;P006;Webcam HD Regard;Électronique;Léa Bonnet;6;79,00;44,20;Sud
+12/04/2023;P004;Clavier mécanique Frappe;Électronique;Camille Fournier;2;119,50;68,90;Île-de-France
+13/09/2023;P006;Webcam HD Regard;Électronique;Inès Moreau;7;79,00;44,20;Ouest
+22/06/2023;P302;Machine à café Arôme;Électroménager;Bastien Roux;3;219,00;143,00;Est
+17/02/2023;P005;Souris ergonomique Galet;Électronique;Thomas Girard;9;49,90;26,40;Nord
+23/11/2023;P306;Aspirateur balai Souffle;Électroménager;Inès Moreau;2;199,00;128,00;Ouest
+27/01/2023;P406;Câble tressé Lien;Téléphonie;Yanis Perrot;8;14,90;5,10;Est
+15/05/2023;P205;Bloc-notes adhésif Repère;Papeterie;Claire Vasseur;35;3,90;1,40;Centre
+24/12/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;1;449,00;331,00;Sud
+28/12/2023;P005;Souris ergonomique Galet;Électronique;Inès Moreau;7;49,90;26,40;Ouest
+22/06/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;7;39,90;19,70;Centre
+15/08/2023;P404;Casque filaire Fil;Téléphonie;Nora Lefèvre;14;19,90;8,90;Nord
+18/11/2023;P405;Support voiture Cardan;Téléphonie;Claire Vasseur;9;29,90;12,60;Centre
+29/05/2023;P202;Stylo roller Encre;Papeterie;Camille Fournier;38;4,50;1,60;Île-de-France
+2023-01-22;P104;Lampe d'architecte Faisceau;Mobilier;Nora Lefèvre;6;94,50;52,00;Nord
+29/04/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;5;199,00;128,00;Sud
+10/12/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;1;449,00;331,00;Nord
+2023-02-03;P204;Classeur à levier Dossier;Papeterie;Léa Bonnet;63;5,40;2,10;Sud
+26/08/2023;P301;Bouilloire Vapeur;Électroménager;Hugo Marchand;13;44,90;24,60;Île-de-France
+20/12/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;28;8,90;5,20;Sud
+04/03/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;1;449,00;331,00;Île-de-France
+30/09/2023;P203;Ramette A4 Blancheur;Papeterie;Hugo Marchand;24;8,90;5,20;Île-de-France
+24/03/2023;P003;Écran 27 pouces Lumen;Électronique;Hugo Marchand;3;329,00;214,00;Île-de-France
+12/03/2023;P302;Machine à café Arôme;Électroménager;Hugo Marchand;3;219,00;143,00;Île-de-France
+17/04/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;10;39,90;19,70;Centre
+07/07/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Yanis Perrot;2;279,00;191,00;Est
+11/07/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;1;449,00;331,00;Nord
+27/06/2023;P002;Enceinte nomade Volta;Électronique;Léa Bonnet;6;129,00;74,80;Sud
+16/03/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;2;449,00;331,00;Nord
+13/01/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;30;14,90;7,30;Ouest
+03/11/2023;P205;Bloc-notes adhésif Repère;Papeterie;Inès Moreau;70;3,90;1,40;Ouest
+13/10/2023;P302;Machine à café Arôme;Électroménager;Camille Fournier;3;219,00;143,00;Île-de-France
+16/12/2023;P405;Support voiture Cardan;Téléphonie;Léa Bonnet;16;29,90;12,60;Sud
+12/04/2023;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;23;6,90;2,80;Sud
+03/09/2023;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;25;6,90;2,80;Sud
+13/04/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;79;2,80;0,95;Nord
+04/08/2023;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;24;19,90;8,90;Île-de-France
+18/11/2023;P008;Chargeur USB-C Foudre;Électronique;Yanis Perrot;13;34,90;16,80;Est
+23/10/2023;P004;Clavier mécanique Frappe;Électronique;Claire Vasseur;6;119,50;68,90;Centre
+08/01/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;2;199,00;128,00;Sud
+24/06/2023;P405;Support voiture Cardan;Téléphonie;Camille Fournier;4500;29,90;12,60;Île-de-France
+06/12/2023;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;23;3,90;1,40;Île-de-France
+08/02/2023;P401;Smartphone Signal;Téléphonie;Yanis Perrot;3;449,00;331,00;Est
+31/10/2023;P104;Lampe d'architecte Faisceau;Mobilier;Samir Haddad;5;94,50;52,00;Sud
+24/12/2023;P402;Coque renforcée Carapace;Téléphonie;Samir Haddad;13;24,90;8,40;Sud
+15/02/2023;P004;Clavier mécanique Frappe;Électronique;Claire Vasseur;3;119,50;68,90;Centre
+29/11/2023;P203;Ramette A4 Blancheur;Papeterie;Inès Moreau;26;8,90;5,20;Ouest
+22/12/2023;P006;Webcam HD Regard;Électronique;Claire Vasseur;5;79,00;44,20;Centre
+27/06/2023;P301;Bouilloire Vapeur;Électroménager;Camille Fournier;11;44,90;24,60;Île-de-France
+19/03/2023;P403;Batterie externe Réserve;Téléphonie;Hugo Marchand;7;39,90;19,70;Île-de-France
+2023-02-08;P405;Support voiture Cardan;Téléphonie;Yanis Perrot;14;29,90;12,60;Est
+22/08/2023;P106;Fauteuil visiteur Accueil;Mobilier;Léa Bonnet;5;189,00;121,00;Sud
+2023-02-09;P008;Chargeur USB-C Foudre;Électronique;Inès Moreau;10;34,90;16,80;Ouest
+06/05/2023;P405;Support voiture Cardan;Téléphonie;Yanis Perrot;12;29,90;12,60;Est
+29/09/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;12;39,90;19,70;Sud
+18/09/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;44;3,90;1,40;Sud
+08/12/2023;P201;Carnet A5 Feuillet;Papeterie;Nora Lefèvre;23;6,90;2,80;Nord
+16/06/2023;P301;Bouilloire Vapeur;Électroménager;Thomas Girard;6;44,90;24,60;Nord
+07/05/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;35;8,90;5,20;Île-de-France
+29/10/2023;P207;Agrafeuse Attache;Papeterie;Camille Fournier;21;14,90;7,30;Île-de-France
+30/07/2023;P003;Écran 27 pouces Lumen;Électronique;Hugo Marchand;3;329,00;214,00;Île-de-France
+23/11/2023;P003;Écran 27 pouces Lumen;Électronique;Thomas Girard;3;329,00;214,00;Nord
+07/12/2023;P101;Chaise de bureau Assise;Mobilier;Nora Lefèvre;2;249,00;158,00;Nord
+22/06/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;56;2,80;0,95;Île-de-France
+11/07/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;35;6,90;2,80;Sud
+10/02/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;32;14,90;5,10;Île-de-France
+15/05/2023;P305;Ventilateur colonne Brise;Électroménager;Malik Benali;4;89,00;47,50;Ouest
+2023-04-27;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;44;6,90;2,80;Île-de-France
+27/12/2023;P401;Smartphone Signal;Téléphonie;Nora Lefèvre;1;449,00;331,00;Nord
+21/06/2023;P105;Étagère modulaire Strate;Mobilier;Claire Vasseur;6;139,00;86,50;Centre
+10/07/2023;P403;Batterie externe Réserve;Téléphonie;Bastien Roux;3;39,90;19,70;Est
+14/08/2023;P201;Carnet A5 Feuillet;Papeterie;Léa Bonnet;29;6,90;2,80;Sud
+14/09/2023;P202;Stylo roller Encre;Papeterie;Léa Bonnet;41;4,50;1,60;Sud
+06/05/2023;P008;Chargeur USB-C Foudre;Électronique;Inès Moreau;16;34,90;16,80;Ouest
+04/10/2023;P305;Ventilateur colonne Brise;Électroménager;Sofia Renard;7;89,00;47,50;Centre
+01/05/2023;P305;Ventilateur colonne Brise;Électroménager;Claire Vasseur;5;89,00;47,50;Centre
+06/10/2023;P207;Agrafeuse Attache;Papeterie;Hugo Marchand;20;14,90;7,30;Île-de-France
+14/03/2023;P103;Caisson à roulettes Tiroir;Mobilier;Camille Fournier;5;179,00;112,00;Île-de-France
+28/06/2023;P105;Étagère modulaire Strate;Mobilier;Léa Bonnet;7;139,00;86,50;Sud
+16/03/2023;P008;Chargeur USB-C Foudre;Électronique;Inès Moreau;7;34,90;16,80;Ouest
+31/08/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;17;5,40;2,10;Centre
+11/12/2023;P201;Carnet A5 Feuillet;Papeterie;Camille Fournier;13;6,90;2,80;Île-de-France
+16/03/2023;P401;Smartphone Signal;Téléphonie;Malik Benali;3;449,00;331,00;Ouest
+27/05/2023;P005;Souris ergonomique Galet;Électronique;Samir Haddad;8;49,90;26,40;Sud
+15/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Nora Lefèvre;53;2,80;0,95;Nord
+16/05/2023;P102;Bureau réglable Altitude;Mobilier;Samir Haddad;1;549,00;371,00;Sud
+09/06/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;38;4,50;1,60;Île-de-France
+26/08/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;12;14,90;7,30;Centre
+10/08/2023;P204;Classeur à levier Dossier;Papeterie;Thomas Girard;29;5,40;2,10;Nord
+25/09/2023;P203;Ramette A4 Blancheur;Papeterie;Malik Benali;20;8,90;5,20;Ouest
+10/07/2023;P003;Écran 27 pouces Lumen;Électronique;Inès Moreau;2;329,00;214,00;Ouest
+27/11/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;33;4,50;1,60;Île-de-France
+2023-04-20;P302;Machine à café Arôme;Électroménager;Claire Vasseur;4;219,00;143,00;Centre
+2023-01-12;P101;Chaise de bureau Assise;Mobilier;Hugo Marchand;2;249,00;158,00;Île-de-France
+03/05/2023;P007;Disque SSD 1 To Silex;Électronique;Nora Lefèvre;7;109,00;72,10;Nord
+09/09/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;33;4,50;1,60;Île-de-France
+28/07/2023;P303;Micro-ondes Onde;Électroménager;Claire Vasseur;3;149,00;98,50;Centre
+17/10/2023;P404;Casque filaire Fil;Téléphonie;Hugo Marchand;18;19,90;8,90;Île-de-France
+30/08/2023;P204;Classeur à levier Dossier;Papeterie;Yanis Perrot;33;5,40;2,10;Est
+22/12/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;5;89,90;51,30;Centre
+03/11/2023;P302;Machine à café Arôme;Électroménager;Yanis Perrot;1;219,00;143,00;Est
+2023-04-08;P002;Enceinte nomade Volta;Électronique;Hugo Marchand;5;129,00;74,80;Île-de-France
+23/12/2023;P007;Disque SSD 1 To Silex;Électronique;Inès Moreau;9;109,00;72,10;Ouest
+20/02/2023;P305;Ventilateur colonne Brise;Électroménager;Camille Fournier;8;89,00;47,50;Île-de-France
+2023-10-17;P205;Bloc-notes adhésif Repère;Papeterie;Hugo Marchand;39;3,90;1,40;Île-de-France
+10/01/2023;P205;Bloc-notes adhésif Repère;Papeterie;Nora Lefèvre;47;3,90;1,40;Nord
+11/05/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;12;39,90;19,70;Sud
+29/10/2023;P207;Agrafeuse Attache;Papeterie;Camille Fournier;16;14,90;7,30;Île-de-France
+28/09/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Nora Lefèvre;4;279,00;191,00;Nord
+12/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Claire Vasseur;73;2,80;0,95;Centre
+01/01/2023;P306;Aspirateur balai Souffle;Électroménager;Hugo Marchand;4;199,00;128,00;Île-de-France
+31/12/2023;P001;Casque Bluetooth Aria;Électronique;Thomas Girard;6;89,90;51,30;Nord
+23/04/2023;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;7;39,90;19,70;Centre
+10/08/2023;P402;Coque renforcée Carapace;Téléphonie;Camille Fournier;6;24,90;8,40;Île-de-France
+11/05/2023;P004;Clavier mécanique Frappe;Électronique;Camille Fournier;6;119,50;68,90;Île-de-France
+16/10/2023;P106;Fauteuil visiteur Accueil;Mobilier;Inès Moreau;5;189,00;121,00;Ouest
+22/02/2023;P207;Agrafeuse Attache;Papeterie;Claire Vasseur;19;14,90;7,30;Centre
+06/09/2023;P306;Aspirateur balai Souffle;Électroménager;Yanis Perrot;2;199,00;128,00;Est
+26/06/2023;P401;Smartphone Signal;Téléphonie;Bastien Roux;1;449,00;331,00;Est
+30/11/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;34;14,90;5,10;Île-de-France
+10/08/2023;P102;Bureau réglable Altitude;Mobilier;Sofia Renard;1;549,00;371,00;Centre
+31/07/2023;P001;Casque Bluetooth Aria;Électronique;Camille Fournier;6;89,90;51,30;Île-de-France
+05/03/2023;P204;Classeur à levier Dossier;Papeterie;Claire Vasseur;22;5,40;2,10;Centre
+28/03/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;6;14,90;5,10;Île-de-France
+12/05/2023;P106;Fauteuil visiteur Accueil;Mobilier;Léa Bonnet;2;189,00;121,00;Sud
+01/11/2023;P203;Ramette A4 Blancheur;Papeterie;Yanis Perrot;12;8,90;5,20;Est
+2023-06-06;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Hugo Marchand;4;279,00;191,00;Île-de-France
+27/09/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;6;79,00;44,20;Est
+25/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Malik Benali;36;2,80;0,95;Ouest
+2023-08-16;P006;Webcam HD Regard;Électronique;Claire Vasseur;4;79,00;44,20;Centre
+22/12/2023;P106;Fauteuil visiteur Accueil;Mobilier;Camille Fournier;4;189,00;121,00;Île-de-France
+2023-07-28;P403;Batterie externe Réserve;Téléphonie;Malik Benali;5;39,90;19,70;Ouest
+22/04/2023;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;38;3,90;1,40;Île-de-France
+01/03/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Hugo Marchand;2;279,00;191,00;Île-de-France
+23/11/2023;P306;Aspirateur balai Souffle;Électroménager;Claire Vasseur;4;199,00;128,00;Centre
+13/12/2023;P202;Stylo roller Encre;Papeterie;Yanis Perrot;33;4,50;1,60;Est
+31/03/2023;P003;Écran 27 pouces Lumen;Électronique;Hugo Marchand;2;329,00;214,00;Île-de-France
+18/10/2023;P201;Carnet A5 Feuillet;Papeterie;Samir Haddad;30;6,90;2,80;Sud
+2023-02-20;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;21;14,90;7,30;Est
+20/04/2023;P101;Chaise de bureau Assise;Mobilier;Thomas Girard;2;249,00;158,00;Nord
+01/12/2023;P301;Bouilloire Vapeur;Électroménager;Léa Bonnet;15;44,90;24,60;Sud
+14/08/2023;P001;Casque Bluetooth Aria;Électronique;Nora Lefèvre;5;89,90;51,30;Nord
+10/02/2023;P103;Caisson à roulettes Tiroir;Mobilier;Yanis Perrot;4;179,00;112,00;Est
+16/11/2023;P005;Souris ergonomique Galet;Électronique;Thomas Girard;1;49,90;26,40;Nord
+24/09/2023;P007;Disque SSD 1 To Silex;Électronique;Inès Moreau;6;109,00;72,10;Ouest
+18/08/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;25;8,90;5,20;Île-de-France
+17/07/2023;P405;Support voiture Cardan;Téléphonie;Thomas Girard;4;29,90;12,60;Nord
+14/07/2023;P406;Câble tressé Lien;Téléphonie;Camille Fournier;32;14,90;5,10;Île-de-France
+20/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Thomas Girard;22;2,80;0,95;Nord
+16/03/2023;P202;Stylo roller Encre;Papeterie;Nora Lefèvre;62;4,50;1,60;Nord
+2023-08-10;P403;Batterie externe Réserve;Téléphonie;Claire Vasseur;12;39,90;19,70;Centre
+09/02/2023;P406;Câble tressé Lien;Téléphonie;Inès Moreau;16;14,90;5,10;Ouest
+04/08/2023;P203;Ramette A4 Blancheur;Papeterie;Claire Vasseur;25;8,90;5,20;Centre
+15/04/2023;P306;Aspirateur balai Souffle;Électroménager;Samir Haddad;3;199,00;128,00;Sud
+06/04/2023;P106;Fauteuil visiteur Accueil;Mobilier;Inès Moreau;5;189,00;121,00;Ouest
+29/12/2023;P202;Stylo roller Encre;Papeterie;Hugo Marchand;27;4,50;1,60;Île-de-France
+01/08/2023;P207;Agrafeuse Attache;Papeterie;Camille Fournier;19;14,90;7,30;Île-de-France
+05/08/2023;P104;Lampe d'architecte Faisceau;Mobilier;Inès Moreau;5;94,50;52,00;Ouest
+28/02/2023;P007;Disque SSD 1 To Silex;Électronique;Inès Moreau;5;109,00;72,10;Ouest
+2023-07-24;P206;Marqueur effaçable Ardoise;Papeterie;Malik Benali;59;2,80;0,95;Ouest
+25/09/2023;P002;Enceinte nomade Volta;Électronique;Samir Haddad;4;129,00;74,80;Sud
+24/01/2023;P404;Casque filaire Fil;Téléphonie;Malik Benali;4;19,90;8,90;Ouest
+2023-03-23;P207;Agrafeuse Attache;Papeterie;Inès Moreau;20;14,90;7,30;Ouest
+03/01/2023;P401;Smartphone Signal;Téléphonie;Hugo Marchand;2;449,00;331,00;Île-de-France
+27/06/2023;P202;Stylo roller Encre;Papeterie;Malik Benali;43;4,50;1,60;Ouest
+19/11/2023;P004;Clavier mécanique Frappe;Électronique;Thomas Girard;3;119,50;68,90;Nord
+22/12/2023;P302;Machine à café Arôme;Électroménager;Nora Lefèvre;2;219,00;143,00;Nord
+05/03/2023;P403;Batterie externe Réserve;Téléphonie;Malik Benali;6;39,90;19,70;Ouest
+26/12/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;7;49,90;26,40;Île-de-France
+08/04/2023;P002;Enceinte nomade Volta;Électronique;Nora Lefèvre;6;129,00;74,80;Nord
+29/07/2023;P401;Smartphone Signal;Téléphonie;Hugo Marchand;1;449,00;331,00;Île-de-France
+12/07/2023;P005;Souris ergonomique Galet;Électronique;Hugo Marchand;6;49,90;26,40;Île-de-France
+2023-07-08;P205;Bloc-notes adhésif Repère;Papeterie;Camille Fournier;39;3,90;1,40;Île-de-France
+27/12/2023;P401;Smartphone Signal;Téléphonie;Inès Moreau;2;449,00;331,00;Ouest
+13/05/2023;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;58;5,40;2,10;Île-de-France
+27/09/2023;P206;Marqueur effaçable Ardoise;Papeterie;Inès Moreau;55;2,80;0,95;Ouest
+2023-07-30;P202;Stylo roller Encre;Papeterie;Camille Fournier;40;4,50;1,60;Île-de-France
+14/09/2023;P207;Agrafeuse Attache;Papeterie;Yanis Perrot;19;14,90;7,30;Est
+08/02/2023;P008;Chargeur USB-C Foudre;Électronique;Camille Fournier;12;34,90;16,80;Île-de-France
+26/07/2023;P102;Bureau réglable Altitude;Mobilier;Claire Vasseur;2;549,00;371,00;Centre
+05/05/2023;P004;Clavier mécanique Frappe;Électronique;Samir Haddad;5;119,50;68,90;Sud
+28/03/2023;P305;Ventilateur colonne Brise;Électroménager;Hugo Marchand;7;89,00;47,50;Île-de-France
+24/07/2023;P303;Micro-ondes Onde;Électroménager;Malik Benali;4;149,00;98,50;Ouest
+05/12/2023;P206;Marqueur effaçable Ardoise;Papeterie;Camille Fournier;80;2,80;0,95;Île-de-France
+24/07/2023;P402;Coque renforcée Carapace;Téléphonie;Léa Bonnet;12;24,90;8,40;Sud
+04/09/2023;P203;Ramette A4 Blancheur;Papeterie;Léa Bonnet;22;8,90;5,20;Sud
+22/12/2023;P401;Smartphone Signal;Téléphonie;Léa Bonnet;3;449,00;331,00;Sud
+12/07/2023;P106;Fauteuil visiteur Accueil;Mobilier;Claire Vasseur;5;189,00;121,00;Centre
+26/11/2023;P207;Agrafeuse Attache;Papeterie;Inès Moreau;9;14,90;7,30;Ouest
+05/05/2023;P204;Classeur à levier Dossier;Papeterie;Hugo Marchand;26;5,40;2,10;Île-de-France
+01/09/2023;P302;Machine à café Arôme;Électroménager;Malik Benali;3;219,00;143,00;Ouest
+18/09/2023;P302;Machine à café Arôme;Électroménager;Camille Fournier;6;219,00;143,00;Île-de-France
+06/12/2023;P401;Smartphone Signal;Téléphonie;Camille Fournier;2;449,00;331,00;Île-de-France
+25/04/2023;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;44;5,40;2,10;Île-de-France
+26/12/2023;P406;Câble tressé Lien;Téléphonie;Hugo Marchand;16;14,90;5,10;Île-de-France
+31/10/2023;P403;Batterie externe Réserve;Téléphonie;Camille Fournier;11;39,90;19,70;Île-de-France
+03/08/2023;P006;Webcam HD Regard;Électronique;Léa Bonnet;8;79,00;44,20;Sud
+24/03/2023;P001;Casque Bluetooth Aria;Électronique;Claire Vasseur;8;89,90;51,30;Centre
+06/08/2023;P203;Ramette A4 Blancheur;Papeterie;Nora Lefèvre;28;8,90;5,20;Nord
+12/11/2023;P206;Marqueur effaçable Ardoise;Papeterie;Claire Vasseur;73;2,80;0,95;Centre
+26/08/2023;P405;Support voiture Cardan;Téléphonie;Thomas Girard;11;29,90;12,60;Nord
+10/09/2023;P402;Coque renforcée Carapace;Téléphonie;Nora Lefèvre;15;24,90;8,40;Nord
+31/12/2023;P006;Webcam HD Regard;Électronique;Yanis Perrot;5;79,00;44,20;Est
+28/05/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;22;3,90;1,40;Sud
+02/01/2023;P203;Ramette A4 Blancheur;Papeterie;Camille Fournier;41;8,90;5,20;Île-de-France
+14/12/2023;P005;Souris ergonomique Galet;Électronique;Samir Haddad;4;49,90;26,40;Sud
+27/06/2023;P202;Stylo roller Encre;Papeterie;Inès Moreau;31;4,50;1,60;Ouest
+15/09/2023;P403;Batterie externe Réserve;Téléphonie;Camille Fournier;14;39,90;19,70;Île-de-France
+21/07/2023;P205;Bloc-notes adhésif Repère;Papeterie;Samir Haddad;36;3,90;1,40;Sud
+06/09/2023;P403;Batterie externe Réserve;Téléphonie;Léa Bonnet;7;39,90;19,70;Sud
+21/03/2023;P206;Marqueur effaçable Ardoise;Papeterie;Hugo Marchand;26;2,80;0,95;Île-de-France
+28/07/2023;P002;Enceinte nomade Volta;Électronique;Malik Benali;7;129,00;74,80;Ouest
+16/11/2023;P302;Machine à café Arôme;Électroménager;Yanis Perrot;3;219,00;143,00;Est
+14/07/2023;P405;Support voiture Cardan;Téléphonie;Thomas Girard;8;29,90;12,60;Nord
+23/02/2023;P007;Disque SSD 1 To Silex;Électronique;Camille Fournier;6;109,00;72,10;Île-de-France
+22/03/2023;P302;Machine à café Arôme;Électroménager;Inès Moreau;4;219,00;143,00;Ouest
+03/07/2023;P403;Batterie externe Réserve;Téléphonie;Nora Lefèvre;9;39,90;19,70;Nord
+2023-10-25;P201;Carnet A5 Feuillet;Papeterie;Hugo Marchand;29;6,90;2,80;Île-de-France
+23/09/2023;P007;Disque SSD 1 To Silex;Électronique;Léa Bonnet;6;109,00;72,10;Sud
+26/06/2023;P301;Bouilloire Vapeur;Électroménager;Camille Fournier;5;44,90;24,60;Île-de-France
+2023-07-14;P204;Classeur à levier Dossier;Papeterie;Camille Fournier;49;5,40;2,10;Île-de-France
+22/05/2023;P303;Micro-ondes Onde;Électroménager;Hugo Marchand;6;149,00;98,50;Île-de-France
+29/05/2023;P002;Enceinte nomade Volta;Électronique;Samir Haddad;5;129,00;74,80;Sud
+14/01/2023;P105;Étagère modulaire Strate;Mobilier;Camille Fournier;5;139,00;86,50;Île-de-France
+12/02/2023;P304;Réfrigérateur d'appoint Fraîcheur;Électroménager;Hugo Marchand;1;279,00;191,00;Île-de-France
+02/10/2023;P201;Carnet A5 Feuillet;Papeterie;Inès Moreau;29;6,90;2,80;Ouest
+2023-10-19;P302;Machine à café Arôme;Électroménager;Yanis Perrot;2;219,00;143,00;Est
+20/12/2023;P405;Support voiture Cardan;Téléphonie;Léa Bonnet;20;29,90;12,60;Sud

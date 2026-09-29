@@ -1,0 +1,321 @@
+﻿Date,Catégorie,Produit,Vendeur,Montant,Région
+02/01/2024,Électronique,Clavier mécanique Frappe,Thomas Girard,598,Nord
+03/01/2024,Électronique,Écran 27 pouces Lumen,Camille Fournier,987,Île-de-France
+03/01/2024,Papeterie,Ramette A4 Blancheur,Camille Fournier,276,Île-de-France
+03/01/2024,Papeterie,Agrafeuse Attache,Malik Benali,372,Ouest
+03/01/2024,Téléphonie,Support voiture Cardan,Inès Moreau,508,Ouest
+05/01/2024,Électronique,Souris ergonomique Galet,Hugo Marchand,200,Île-de-France
+06/01/2024,Papeterie,Agrafeuse Attache,Malik Benali,179,Ouest
+07/01/2024,Électronique,Disque SSD 1 To Silex,Claire Vasseur,763,Centre
+07/01/2024,Électroménager,Bouilloire Vapeur,Inès Moreau,314,Ouest
+10/01/2024,Papeterie,Agrafeuse Attache,Yanis Perrot,119,Est
+14/01/2024,Téléphonie,Support voiture Cardan,Hugo Marchand,299,Île-de-France
+15/01/2024,Mobilier,Fauteuil visiteur Accueil,Yanis Perrot,1134,Est
+15/01/2024,Téléphonie,Casque filaire Fil,Hugo Marchand,338,Île-de-France
+16/01/2024,Papeterie,Stylo roller Encre,Yanis Perrot,171,Est
+17/01/2024,Papeterie,Marqueur effaçable Ardoise,Claire Vasseur,112,Centre
+22/01/2024,Électronique,Clavier mécanique Frappe,Léa Bonnet,717,Sud
+23/01/2024,Papeterie,Ramette A4 Blancheur,Nora Lefèvre,374,Nord
+25/01/2024,Électroménager,Bouilloire Vapeur,Thomas Girard,180,Nord
+26/01/2024,Papeterie,Classeur à levier Dossier,Claire Vasseur,157,Centre
+28/01/2024,Électronique,Souris ergonomique Galet,Nora Lefèvre,549,Nord
+29/01/2024,Téléphonie,Smartphone Signal,Camille Fournier,1796,Île-de-France
+29/01/2024,Téléphonie,Batterie externe Réserve,Thomas Girard,200,Nord
+01/02/2024,Téléphonie,Casque filaire Fil,Camille Fournier,418,Île-de-France
+03/02/2024,Papeterie,Ramette A4 Blancheur,Malik Benali,142,Ouest
+03/02/2024,Téléphonie,Support voiture Cardan,Camille Fournier,359,Île-de-France
+05/02/2024,Électroménager,Micro-ondes Onde,Claire Vasseur,745,Centre
+06/02/2024,Électroménager,Aspirateur balai Souffle,Camille Fournier,995,Île-de-France
+09/02/2024,Papeterie,Stylo roller Encre,Camille Fournier,184,Île-de-France
+09/02/2024,Électroménager,Ventilateur colonne Brise,Camille Fournier,801,Île-de-France
+09/02/2024,Téléphonie,Batterie externe Réserve,Samir Haddad,479,Sud
+11/02/2024,Mobilier,Caisson à roulettes Tiroir,Thomas Girard,358,Nord
+12/02/2024,Papeterie,Stylo roller Encre,Inès Moreau,176,Ouest
+14/02/2024,Électroménager,Bouilloire Vapeur,Nora Lefèvre,629,Nord
+16/02/2024,Téléphonie,Câble tressé Lien,Camille Fournier,507,Île-de-France
+18/02/2024,Papeterie,Marqueur effaçable Ardoise,Malik Benali,129,Ouest
+22/02/2024,Téléphonie,Casque filaire Fil,Yanis Perrot,279,Est
+23/02/2024,Papeterie,Stylo roller Encre,Claire Vasseur,148,Centre
+24/02/2024,Électroménager,Ventilateur colonne Brise,Yanis Perrot,356,Est
+25/02/2024,Électronique,Souris ergonomique Galet,Camille Fournier,250,Île-de-France
+25/02/2024,Papeterie,Carnet A5 Feuillet,Léa Bonnet,290,Sud
+26/02/2024,Mobilier,Fauteuil visiteur Accueil,Hugo Marchand,1323,Île-de-France
+29/02/2024,Électroménager,Micro-ondes Onde,Yanis Perrot,596,Est
+01/03/2024,Électronique,Écran 27 pouces Lumen,Thomas Girard,987,Nord
+01/03/2024,Électroménager,Aspirateur balai Souffle,Nora Lefèvre,796,Nord
+04/03/2024,Téléphonie,Smartphone Signal,Hugo Marchand,898,Île-de-France
+11/03/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Nora Lefèvre,1116,Nord
+11/03/2024,Électroménager,Aspirateur balai Souffle,Malik Benali,398,Ouest
+15/03/2024,Mobilier,Bureau réglable Altitude,Thomas Girard,1098,Nord
+16/03/2024,Papeterie,Carnet A5 Feuillet,Camille Fournier,283,Île-de-France
+19/03/2024,Électroménager,Bouilloire Vapeur,Nora Lefèvre,449,Nord
+19/03/2024,Téléphonie,Smartphone Signal,Inès Moreau,1347,Ouest
+20/03/2024,Téléphonie,Support voiture Cardan,Malik Benali,419,Ouest
+21/03/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,232,Nord
+21/03/2024,Téléphonie,Smartphone Signal,Hugo Marchand,898,Île-de-France
+23/03/2024,Électroménager,Bouilloire Vapeur,Claire Vasseur,404,Centre
+24/03/2024,Électroménager,Ventilateur colonne Brise,Nora Lefèvre,623,Nord
+01/04/2024,Papeterie,Stylo roller Encre,Yanis Perrot,81,Est
+02/04/2024,Électroménager,Bouilloire Vapeur,Camille Fournier,449,Île-de-France
+03/04/2024,Électronique,Chargeur USB-C Foudre,Yanis Perrot,314,Est
+03/04/2024,Mobilier,Chaise de bureau Assise,Yanis Perrot,498,Est
+04/04/2024,Papeterie,Marqueur effaçable Ardoise,Léa Bonnet,120,Sud
+05/04/2024,Électroménager,Bouilloire Vapeur,Malik Benali,224,Ouest
+06/04/2024,Électronique,Webcam HD Regard,Yanis Perrot,395,Est
+07/04/2024,Électronique,Chargeur USB-C Foudre,Nora Lefèvre,558,Nord
+08/04/2024,Téléphonie,Smartphone Signal,Inès Moreau,898,Ouest
+10/04/2024,Téléphonie,Câble tressé Lien,Hugo Marchand,372,Île-de-France
+11/04/2024,Électronique,Webcam HD Regard,Malik Benali,79,Ouest
+11/04/2024,Papeterie,Stylo roller Encre,Hugo Marchand,135,Île-de-France
+12/04/2024,Mobilier,Chaise de bureau Assise,Malik Benali,747,Ouest
+13/04/2024,Électronique,Disque SSD 1 To Silex,Bastien Roux,436,Est
+13/04/2024,Papeterie,Carnet A5 Feuillet,Hugo Marchand,152,Île-de-France
+15/04/2024,Mobilier,Bureau réglable Altitude,Claire Vasseur,1098,Centre
+16/04/2024,Électroménager,Machine à café Arôme,Inès Moreau,1095,Ouest
+19/04/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Samir Haddad,837,Sud
+20/04/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,76,Nord
+20/04/2024,Électroménager,Aspirateur balai Souffle,Hugo Marchand,796,Île-de-France
+21/04/2024,Électroménager,Ventilateur colonne Brise,Camille Fournier,712,Île-de-France
+21/04/2024,Téléphonie,Casque filaire Fil,Claire Vasseur,458,Centre
+21/04/2024,Téléphonie,Câble tressé Lien,Léa Bonnet,462,Sud
+23/04/2024,Électronique,Webcam HD Regard,Camille Fournier,632,Île-de-France
+23/04/2024,Téléphonie,Support voiture Cardan,Camille Fournier,508,Île-de-France
+24/04/2024,Mobilier,Chaise de bureau Assise,Hugo Marchand,498,Île-de-France
+25/04/2024,Téléphonie,Support voiture Cardan,Claire Vasseur,299,Centre
+27/04/2024,Mobilier,Étagère modulaire Strate,Yanis Perrot,417,Est
+27/04/2024,Téléphonie,Support voiture Cardan,Camille Fournier,448,Île-de-France
+30/04/2024,Papeterie,Stylo roller Encre,Yanis Perrot,112,Est
+05/05/2024,Mobilier,Étagère modulaire Strate,Malik Benali,417,Ouest
+07/05/2024,Mobilier,Fauteuil visiteur Accueil,Claire Vasseur,945,Centre
+12/05/2024,Électronique,Chargeur USB-C Foudre,Claire Vasseur,314,Centre
+14/05/2024,Téléphonie,Câble tressé Lien,Léa Bonnet,447,Sud
+15/05/2024,Téléphonie,Support voiture Cardan,Claire Vasseur,359,Centre
+16/05/2024,Papeterie,Agrafeuse Attache,Hugo Marchand,164,Île-de-France
+16/05/2024,Électroménager,Micro-ondes Onde,Yanis Perrot,447,Est
+17/05/2024,Mobilier,Lampe d'architecte Faisceau,Camille Fournier,756,Île-de-France
+17/05/2024,Papeterie,Stylo roller Encre,Claire Vasseur,126,Centre
+17/05/2024,Téléphonie,Coque renforcée Carapace,Hugo Marchand,299,Île-de-France
+20/05/2024,Papeterie,Bloc-notes adhésif Repère,Claire Vasseur,136,Centre
+23/05/2024,Mobilier,Lampe d'architecte Faisceau,Malik Benali,378,Ouest
+23/05/2024,Électroménager,Ventilateur colonne Brise,Camille Fournier,178,Île-de-France
+24/05/2024,Électronique,Chargeur USB-C Foudre,Camille Fournier,279,Île-de-France
+24/05/2024,Mobilier,Fauteuil visiteur Accueil,Camille Fournier,756,Île-de-France
+25/05/2024,Électronique,Clavier mécanique Frappe,Nora Lefèvre,836,Nord
+26/05/2024,Mobilier,Bureau réglable Altitude,Claire Vasseur,549,Centre
+28/05/2024,Électronique,Enceinte nomade Volta,Camille Fournier,903,Île-de-France
+29/05/2024,Papeterie,Carnet A5 Feuillet,Malik Benali,200,Ouest
+29/05/2024,Papeterie,Marqueur effaçable Ardoise,Thomas Girard,126,Nord
+31/05/2024,Papeterie,Ramette A4 Blancheur,Camille Fournier,125,Île-de-France
+01/06/2024,Papeterie,Bloc-notes adhésif Repère,Thomas Girard,129,Nord
+06/06/2024,Papeterie,Ramette A4 Blancheur,Camille Fournier,160,Île-de-France
+06/06/2024,Téléphonie,Support voiture Cardan,Camille Fournier,329,Île-de-France
+07/06/2024,Électroménager,Micro-ondes Onde,Inès Moreau,745,Ouest
+08/06/2024,Papeterie,Bloc-notes adhésif Repère,Camille Fournier,35,Île-de-France
+11/06/2024,Téléphonie,Casque filaire Fil,Hugo Marchand,318,Île-de-France
+13/06/2024,Électroménager,Machine à café Arôme,Hugo Marchand,438,Île-de-France
+14/06/2024,Électronique,Souris ergonomique Galet,Samir Haddad,499,Sud
+14/06/2024,Papeterie,Ramette A4 Blancheur,Samir Haddad,276,Sud
+15/06/2024,Mobilier,Bureau réglable Altitude,Claire Vasseur,1647,Centre
+16/06/2024,Électroménager,Bouilloire Vapeur,Thomas Girard,494,Nord
+18/06/2024,Papeterie,Ramette A4 Blancheur,Yanis Perrot,134,Est
+20/06/2024,Téléphonie,Coque renforcée Carapace,Thomas Girard,324,Nord
+21/06/2024,Électronique,Disque SSD 1 To Silex,Thomas Girard,436,Nord
+22/06/2024,Téléphonie,Coque renforcée Carapace,Léa Bonnet,274,Sud
+23/06/2024,Téléphonie,Câble tressé Lien,Léa Bonnet,209,Sud
+24/06/2024,Papeterie,Classeur à levier Dossier,Nora Lefèvre,184,Nord
+24/06/2024,Électroménager,Ventilateur colonne Brise,Claire Vasseur,445,Centre
+25/06/2024,Téléphonie,Casque filaire Fil,Samir Haddad,338,Sud
+26/06/2024,Électroménager,Machine à café Arôme,Claire Vasseur,876,Centre
+27/06/2024,Téléphonie,Casque filaire Fil,Hugo Marchand,259,Île-de-France
+28/06/2024,Téléphonie,Batterie externe Réserve,Camille Fournier,439,Île-de-France
+29/06/2024,Électronique,Souris ergonomique Galet,Léa Bonnet,699,Sud
+30/06/2024,Papeterie,Marqueur effaçable Ardoise,Samir Haddad,101,Sud
+30/06/2024,Téléphonie,Batterie externe Réserve,Nora Lefèvre,359,Nord
+01/07/2024,Électroménager,Bouilloire Vapeur,Hugo Marchand,359,Île-de-France
+01/07/2024,Électroménager,Machine à café Arôme,Claire Vasseur,438,Centre
+01/07/2024,Électroménager,Aspirateur balai Souffle,Thomas Girard,398,Nord
+04/07/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,184,Nord
+04/07/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Samir Haddad,837,Sud
+07/07/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Inès Moreau,837,Ouest
+07/07/2024,Téléphonie,Batterie externe Réserve,Camille Fournier,758,Île-de-France
+09/07/2024,Électroménager,Bouilloire Vapeur,Claire Vasseur,404,Centre
+09/07/2024,Électroménager,Micro-ondes Onde,Claire Vasseur,745,Centre
+11/07/2024,Électronique,Enceinte nomade Volta,Camille Fournier,774,Île-de-France
+11/07/2024,Électroménager,Aspirateur balai Souffle,Malik Benali,398,Ouest
+14/07/2024,Mobilier,Fauteuil visiteur Accueil,Malik Benali,378,Ouest
+16/07/2024,Téléphonie,Support voiture Cardan,Yanis Perrot,359,Est
+17/07/2024,Mobilier,Fauteuil visiteur Accueil,Camille Fournier,945,Île-de-France
+17/07/2024,Électroménager,Micro-ondes Onde,Inès Moreau,745,Ouest
+19/07/2024,Téléphonie,Câble tressé Lien,Nora Lefèvre,224,Nord
+20/07/2024,Électronique,Écran 27 pouces Lumen,Thomas Girard,658,Nord
+20/07/2024,Électronique,Disque SSD 1 To Silex,Hugo Marchand,327,Île-de-France
+21/07/2024,Électroménager,Ventilateur colonne Brise,Léa Bonnet,623,Sud
+22/07/2024,Téléphonie,Coque renforcée Carapace,Claire Vasseur,274,Centre
+25/07/2024,Mobilier,Fauteuil visiteur Accueil,Thomas Girard,756,Nord
+26/07/2024,Papeterie,Agrafeuse Attache,Sofia Renard,209,Centre
+26/07/2024,Électroménager,Ventilateur colonne Brise,Thomas Girard,890,Nord
+27/07/2024,Papeterie,Classeur à levier Dossier,Nora Lefèvre,103,Nord
+28/07/2024,Électronique,Casque Bluetooth Aria,Nora Lefèvre,719,Nord
+29/07/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,194,Nord
+29/07/2024,Téléphonie,Support voiture Cardan,Yanis Perrot,239,Est
+30/07/2024,Papeterie,Bloc-notes adhésif Repère,Yanis Perrot,160,Est
+30/07/2024,Électroménager,Micro-ondes Onde,Inès Moreau,596,Ouest
+30/07/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Camille Fournier,1395,Île-de-France
+02/08/2024,Électronique,Disque SSD 1 To Silex,Nora Lefèvre,436,Nord
+02/08/2024,Papeterie,Bloc-notes adhésif Repère,Claire Vasseur,117,Centre
+04/08/2024,Électronique,Écran 27 pouces Lumen,Claire Vasseur,658,Centre
+04/08/2024,Mobilier,Chaise de bureau Assise,Camille Fournier,1245,Île-de-France
+04/08/2024,Mobilier,Fauteuil visiteur Accueil,Camille Fournier,1323,Île-de-France
+04/08/2024,Papeterie,Marqueur effaçable Ardoise,Samir Haddad,134,Sud
+04/08/2024,Électroménager,Aspirateur balai Souffle,Malik Benali,995,Ouest
+05/08/2024,Électronique,Clavier mécanique Frappe,Claire Vasseur,478,Centre
+07/08/2024,Électronique,Disque SSD 1 To Silex,Léa Bonnet,327,Sud
+09/08/2024,Papeterie,Agrafeuse Attache,Léa Bonnet,74,Sud
+13/08/2024,Électroménager,Aspirateur balai Souffle,Samir Haddad,796,Sud
+14/08/2024,Électronique,Écran 27 pouces Lumen,Hugo Marchand,1316,Île-de-France
+15/08/2024,Téléphonie,Câble tressé Lien,Yanis Perrot,104,Est
+16/08/2024,Papeterie,Marqueur effaçable Ardoise,Malik Benali,129,Ouest
+17/08/2024,Papeterie,Bloc-notes adhésif Repère,Léa Bonnet,191,Sud
+17/08/2024,Électroménager,Ventilateur colonne Brise,Yanis Perrot,623,Est
+18/08/2024,Électronique,Webcam HD Regard,Sofia Renard,316,Centre
+18/08/2024,Électronique,Disque SSD 1 To Silex,Inès Moreau,654,Ouest
+18/08/2024,Papeterie,Agrafeuse Attache,Samir Haddad,179,Sud
+18/08/2024,Électroménager,Ventilateur colonne Brise,Hugo Marchand,623,Île-de-France
+19/08/2024,Électronique,Webcam HD Regard,Thomas Girard,474,Nord
+24/08/2024,Papeterie,Stylo roller Encre,Malik Benali,158,Ouest
+25/08/2024,Électronique,Écran 27 pouces Lumen,Inès Moreau,658,Ouest
+25/08/2024,Électronique,Écran 27 pouces Lumen,Claire Vasseur,658,Centre
+25/08/2024,Papeterie,Ramette A4 Blancheur,Léa Bonnet,347,Sud
+25/08/2024,Électroménager,Bouilloire Vapeur,Camille Fournier,45,Île-de-France
+27/08/2024,Téléphonie,Smartphone Signal,Malik Benali,449,Ouest
+28/08/2024,Électronique,Enceinte nomade Volta,Yanis Perrot,645,Est
+28/08/2024,Électronique,Clavier mécanique Frappe,Léa Bonnet,717,Sud
+28/08/2024,Mobilier,Lampe d'architecte Faisceau,Claire Vasseur,378,Centre
+28/08/2024,Papeterie,Ramette A4 Blancheur,Hugo Marchand,187,Île-de-France
+29/08/2024,Papeterie,Stylo roller Encre,Claire Vasseur,144,Centre
+30/08/2024,Papeterie,Ramette A4 Blancheur,Thomas Girard,160,Nord
+01/09/2024,Mobilier,Bureau réglable Altitude,Nora Lefèvre,1647,Nord
+01/09/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,70,Nord
+01/09/2024,Téléphonie,Smartphone Signal,Malik Benali,898,Ouest
+04/09/2024,Électronique,Webcam HD Regard,Hugo Marchand,395,Île-de-France
+04/09/2024,Papeterie,Carnet A5 Feuillet,Samir Haddad,104,Sud
+04/09/2024,Papeterie,Agrafeuse Attache,Hugo Marchand,268,Île-de-France
+04/09/2024,Électroménager,Bouilloire Vapeur,Inès Moreau,359,Ouest
+06/09/2024,Électroménager,Ventilateur colonne Brise,Inès Moreau,445,Ouest
+06/09/2024,Téléphonie,Support voiture Cardan,Samir Haddad,269,Sud
+07/09/2024,Papeterie,Agrafeuse Attache,Samir Haddad,358,Sud
+08/09/2024,Téléphonie,Batterie externe Réserve,Camille Fournier,200,Île-de-France
+09/09/2024,Mobilier,Lampe d'architecte Faisceau,Léa Bonnet,94,Sud
+09/09/2024,Papeterie,Carnet A5 Feuillet,Camille Fournier,221,Île-de-France
+09/09/2024,Électroménager,Micro-ondes Onde,Nora Lefèvre,596,Nord
+10/09/2024,Papeterie,Carnet A5 Feuillet,Claire Vasseur,152,Centre
+10/09/2024,Papeterie,Ramette A4 Blancheur,Hugo Marchand,222,Île-de-France
+10/09/2024,Papeterie,Agrafeuse Attache,Léa Bonnet,313,Sud
+13/09/2024,Papeterie,Marqueur effaçable Ardoise,Yanis Perrot,70,Est
+14/09/2024,Téléphonie,Casque filaire Fil,Camille Fournier,398,Île-de-France
+15/09/2024,Électronique,Webcam HD Regard,Camille Fournier,395,Île-de-France
+16/09/2024,Mobilier,Lampe d'architecte Faisceau,Camille Fournier,472,Île-de-France
+16/09/2024,Téléphonie,Smartphone Signal,Samir Haddad,898,Sud
+17/09/2024,Papeterie,Stylo roller Encre,Léa Bonnet,360,Sud
+18/09/2024,Électroménager,Aspirateur balai Souffle,Bastien Roux,597,Est
+21/09/2024,Mobilier,Caisson à roulettes Tiroir,Claire Vasseur,716,Centre
+21/09/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Léa Bonnet,837,Sud
+21/09/2024,Téléphonie,Batterie externe Réserve,Thomas Girard,319,Nord
+21/09/2024,Téléphonie,Support voiture Cardan,Nora Lefèvre,389,Nord
+22/09/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,43,Nord
+22/09/2024,Papeterie,Marqueur effaçable Ardoise,Claire Vasseur,182,Centre
+23/09/2024,Papeterie,Bloc-notes adhésif Repère,Léa Bonnet,203,Sud
+26/09/2024,Papeterie,Classeur à levier Dossier,Léa Bonnet,124,Sud
+27/09/2024,Électronique,Casque Bluetooth Aria,Camille Fournier,270,Île-de-France
+27/09/2024,Mobilier,Lampe d'architecte Faisceau,Claire Vasseur,472,Centre
+29/09/2024,Téléphonie,Câble tressé Lien,Camille Fournier,209,Île-de-France
+01/10/2024,Papeterie,Stylo roller Encre,Claire Vasseur,166,Centre
+01/10/2024,Papeterie,Classeur à levier Dossier,Samir Haddad,189,Sud
+02/10/2024,Papeterie,Stylo roller Encre,Inès Moreau,238,Ouest
+05/10/2024,Papeterie,Agrafeuse Attache,Yanis Perrot,104,Est
+06/10/2024,Électronique,Webcam HD Regard,Yanis Perrot,395,Est
+06/10/2024,Téléphonie,Casque filaire Fil,Claire Vasseur,119,Centre
+08/10/2024,Électronique,Casque Bluetooth Aria,Camille Fournier,270,Île-de-France
+09/10/2024,Papeterie,Ramette A4 Blancheur,Bastien Roux,134,Est
+09/10/2024,Papeterie,Ramette A4 Blancheur,Nora Lefèvre,418,Nord
+09/10/2024,Papeterie,Marqueur effaçable Ardoise,Thomas Girard,95,Nord
+11/10/2024,Électronique,Clavier mécanique Frappe,Claire Vasseur,239,Centre
+11/10/2024,Téléphonie,Câble tressé Lien,Inès Moreau,313,Ouest
+12/10/2024,Électronique,Disque SSD 1 To Silex,Camille Fournier,872,Île-de-France
+12/10/2024,Papeterie,Agrafeuse Attache,Léa Bonnet,372,Sud
+15/10/2024,Papeterie,Stylo roller Encre,Malik Benali,198,Ouest
+15/10/2024,Papeterie,Marqueur effaçable Ardoise,Malik Benali,53,Ouest
+16/10/2024,Mobilier,Caisson à roulettes Tiroir,Yanis Perrot,537,Est
+16/10/2024,Papeterie,Ramette A4 Blancheur,Thomas Girard,214,Nord
+16/10/2024,Papeterie,Classeur à levier Dossier,Samir Haddad,184,Sud
+16/10/2024,Téléphonie,Support voiture Cardan,Hugo Marchand,419,Île-de-France
+20/10/2024,Électronique,Casque Bluetooth Aria,Samir Haddad,450,Sud
+20/10/2024,Papeterie,Stylo roller Encre,Inès Moreau,153,Ouest
+21/10/2024,Mobilier,Bureau réglable Altitude,Malik Benali,1098,Ouest
+21/10/2024,Papeterie,Carnet A5 Feuillet,Samir Haddad,138,Sud
+21/10/2024,Téléphonie,Smartphone Signal,Samir Haddad,1347,Sud
+22/10/2024,Électroménager,Micro-ondes Onde,Camille Fournier,447,Île-de-France
+23/10/2024,Électroménager,Machine à café Arôme,Malik Benali,876,Ouest
+26/10/2024,Papeterie,Bloc-notes adhésif Repère,Yanis Perrot,203,Est
+28/10/2024,Mobilier,Bureau réglable Altitude,Camille Fournier,1098,Île-de-France
+28/10/2024,Mobilier,Lampe d'architecte Faisceau,Malik Benali,567,Ouest
+30/10/2024,Papeterie,Marqueur effaçable Ardoise,Inès Moreau,224,Ouest
+30/10/2024,Papeterie,Agrafeuse Attache,Malik Benali,209,Ouest
+30/10/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Yanis Perrot,837,Est
+31/10/2024,Électroménager,Bouilloire Vapeur,Inès Moreau,314,Ouest
+03/11/2024,Électronique,Enceinte nomade Volta,Léa Bonnet,387,Sud
+03/11/2024,Mobilier,Chaise de bureau Assise,Léa Bonnet,747,Sud
+06/11/2024,Papeterie,Ramette A4 Blancheur,Thomas Girard,249,Nord
+06/11/2024,Papeterie,Agrafeuse Attache,Claire Vasseur,149,Centre
+07/11/2024,Électronique,Écran 27 pouces Lumen,Inès Moreau,658,Ouest
+08/11/2024,Mobilier,Étagère modulaire Strate,Samir Haddad,1112,Sud
+08/11/2024,Téléphonie,Coque renforcée Carapace,Malik Benali,199,Ouest
+09/11/2024,Téléphonie,Coque renforcée Carapace,Malik Benali,423,Ouest
+10/11/2024,Mobilier,Fauteuil visiteur Accueil,Yanis Perrot,378,Est
+11/11/2024,Électroménager,Machine à café Arôme,Nora Lefèvre,1095,Nord
+14/11/2024,Papeterie,Agrafeuse Attache,Hugo Marchand,268,Île-de-France
+16/11/2024,Électronique,Souris ergonomique Galet,Hugo Marchand,499,Île-de-France
+16/11/2024,Mobilier,Bureau réglable Altitude,Claire Vasseur,1647,Centre
+17/11/2024,Électroménager,Réfrigérateur d'appoint Fraîcheur,Thomas Girard,279,Nord
+18/11/2024,Mobilier,Bureau réglable Altitude,Samir Haddad,549,Sud
+18/11/2024,Papeterie,Carnet A5 Feuillet,Camille Fournier,200,Île-de-France
+20/11/2024,Papeterie,Agrafeuse Attache,Samir Haddad,194,Sud
+22/11/2024,Téléphonie,Smartphone Signal,Léa Bonnet,449,Sud
+23/11/2024,Électronique,Souris ergonomique Galet,Thomas Girard,299,Nord
+23/11/2024,Mobilier,Chaise de bureau Assise,Thomas Girard,747,Nord
+24/11/2024,Électroménager,Bouilloire Vapeur,Samir Haddad,449,Sud
+27/11/2024,Électronique,Webcam HD Regard,Nora Lefèvre,711,Nord
+02/12/2024,Papeterie,Ramette A4 Blancheur,Léa Bonnet,222,Sud
+04/12/2024,Papeterie,Ramette A4 Blancheur,Thomas Girard,214,Nord
+04/12/2024,Électroménager,Micro-ondes Onde,Malik Benali,596,Ouest
+04/12/2024,Téléphonie,Support voiture Cardan,Yanis Perrot,209,Est
+06/12/2024,Électronique,Webcam HD Regard,Yanis Perrot,632,Est
+06/12/2024,Électroménager,Machine à café Arôme,Samir Haddad,657,Sud
+07/12/2024,Mobilier,Lampe d'architecte Faisceau,Hugo Marchand,472,Île-de-France
+07/12/2024,Téléphonie,Câble tressé Lien,Claire Vasseur,417,Centre
+09/12/2024,Papeterie,Bloc-notes adhésif Repère,Hugo Marchand,195,Île-de-France
+10/12/2024,Électronique,Souris ergonomique Galet,Thomas Girard,50,Nord
+10/12/2024,Électronique,Webcam HD Regard,Thomas Girard,553,Nord
+10/12/2024,Papeterie,Classeur à levier Dossier,Thomas Girard,178,Nord
+14/12/2024,Électronique,Disque SSD 1 To Silex,Yanis Perrot,654,Est
+15/12/2024,Électronique,Webcam HD Regard,Hugo Marchand,395,Île-de-France
+15/12/2024,Électroménager,Aspirateur balai Souffle,Malik Benali,597,Ouest
+16/12/2024,Électronique,Écran 27 pouces Lumen,Malik Benali,987,Ouest
+16/12/2024,Papeterie,Bloc-notes adhésif Repère,Yanis Perrot,86,Est
+17/12/2024,Électronique,Enceinte nomade Volta,Samir Haddad,258,Sud
+18/12/2024,Téléphonie,Coque renforcée Carapace,Samir Haddad,274,Sud
+18/12/2024,Téléphonie,Support voiture Cardan,Léa Bonnet,299,Sud
+19/12/2024,Électronique,Casque Bluetooth Aria,Inès Moreau,719,Ouest
+19/12/2024,Mobilier,Lampe d'architecte Faisceau,Claire Vasseur,850,Centre
+19/12/2024,Électroménager,Ventilateur colonne Brise,Camille Fournier,801,Île-de-France
+20/12/2024,Électroménager,Machine à café Arôme,Claire Vasseur,438,Centre
+21/12/2024,Téléphonie,Smartphone Signal,Thomas Girard,449,Nord
+22/12/2024,Mobilier,Caisson à roulettes Tiroir,Camille Fournier,716,Île-de-France
+27/12/2024,Électronique,Disque SSD 1 To Silex,Camille Fournier,981,Île-de-France
+27/12/2024,Mobilier,Chaise de bureau Assise,Nora Lefèvre,249,Nord
+27/12/2024,Téléphonie,Batterie externe Réserve,Camille Fournier,519,Île-de-France
+29/12/2024,Électronique,Disque SSD 1 To Silex,Thomas Girard,327,Nord
+30/12/2024,Papeterie,Ramette A4 Blancheur,Léa Bonnet,142,Sud
+31/12/2024,Électronique,Souris ergonomique Galet,Léa Bonnet,649,Sud
+31/12/2024,Papeterie,Classeur à levier Dossier,Léa Bonnet,135,Sud
+31/12/2024,Électroménager,Bouilloire Vapeur,Léa Bonnet,359,Sud
